@@ -1,0 +1,1 @@
+Nymeria e Vorr vanno in una taverna fuori città. Nymeria viene avvelenata da una cameriera, Karina. In seguito vengono attaccati da un assassino prezzolato. Loro vincono lo scontro, l'assassino scappa. Prendono Karina che era rimasta in camera sua. Cercano di prendere informazioni, la interrogano.

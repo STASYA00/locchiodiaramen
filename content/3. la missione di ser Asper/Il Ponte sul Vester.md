@@ -1,0 +1,20 @@
+[[Seguendo i passi di ser Asper]] arriviamo al Ponte sul Vester.
+La città assomiglia al Ponte Vecchio a Firenze, con le case piantate sopra. In mezzo al ponte si trova la discesa su una piccola isola su cui si trova il resto della città. La villa che si trova all’est della cittadina appartiene al capo del Ordine delle Tre Spade, Gordianus detto anche [[ser Goar]]. 
+
+[[Xröden]] e [[il Barone]] entrano nel negozio da dove è stata mandata la sfera, il proprietario di cui non è altro che il [[Charlatano]]. Lui riconosce [[il Barone]] e reagisce in modo aggressivo (perchè è ancora spaventato e traumatizzato dal waterboarding presumibilmente). Il [[Charlatano]] conferma di aver spedito la sfera. Dice che [[ser Aspar]] comprava anche molti altri oggetti da lui. Ha un’altra sfera esattamente simile a quella mandata a [[ser Aspar]], ma non può fornirla subito attivata per motivi technici. Spiega che la sfera è un ricettacolo che può contenere un incantesimo (non qualsiasi solo quelli inseribili).
+
+Entriamo in una taverna “La Caverna” dove vediamo uno gnoll ([[Guga]]) che discute in maniera aggressiva con un cavaliere dell’Ordine. A quanto pare lo gnoll deve recuperare la sua roba lasciata da qualche parte e il cavaliere non gli vuole aiutare. Il cavaliere non ha nessun rank particolare, non lo riconosciamo. Lo gnoll crede che il suo bagaglio sia stato rubato dai cavalieri dell’Ordine. La catena di sua borsa è stata tagliata mentre era in coda per entrare nella città. Usando l’aiuto di [[il cane Ruben]] siamo arrivati a una casetta nella città. La casa appartiene a un gnomo che si è scappato quando lo gnoll gli ha sfondato la porta.
+
+Abbiamo deciso di inseguire lo gnomo saltando dalla finestra tutti e tre. Lui ha lanciato un barile di pesce sott’olio per ostacolarci, [[Aramisus]] é scivolato sull’olio ma é stato salvato da [[Gurlglinheir]] che stava facendo snowboarding sull’olio usando un pezzo di legno trovato in giro. Nymeria ha fatto un salto grazioso. Lo gnomo ha girato a destra scavalcando un muro di 2.20. [[Nymeria]] e [[Gurglinheir]] hanno proseguito a inseguirlo mentre [[Aramisus]] è rimasto dietro il muro. [[Xröden]] e [[il Barone]] si sono uniti alla caccia (erano per strada quando [[Nymeria]] e [[Gurglinheir]] correvano vicino). 
+
+Alla fine si è lanciato nell’acqua ed è stato colpito da una freccia di [[Nymeria]]. L’abbiamo catturato. [[Aramisus]] ha trovato il gruppo, totalmente a caso perché si è perso in città. Stava mangiando il pesce sotto l’olio che ha recuperato per strada e l’ha offerto al [[Xröden]] e a [[il Barone]].
+
+È intimorito da [[Guga]]. [[Guga]] prende il nano per la freccia e solleva dalla terra incazzato nero. Il nano dice di far parte di un gruppo di borseggiatori e rivenditori. Lui è responsabile del tenere la casa accessibile a quelli che ci devono entrare. [[Aramisus]] gli ha chiesto se fosse possibile rivendere gli oggetti tramite lui e ha ricevuto una risposta positiva. Il nano comunque non si fida del gruppetto. Il nano si fa chiamare [[Abo]]. 
+
+[[Guga]] stava portando tre uova nel suo borsellino. A quanto pare sono le uova molto preziose. Le stava portando nel deserto al suo signore. Ci chiede di ritrovarle. Il signore di [[Guga]] probabilmente si chiama [[Murgawa]]. Lui cerca di riunire diversi clan degli gnoll usando anche la forza contro i clan rivali. Probabilmente vuole usare la forza degli animali (draghi, manticore, serpenti) per #combattere. È a favore del oscurantismo religioso.
+
+Il negozio di [[Il Charlatano]] si chiama “Curiosità di Johan”. [[Il Charlatano]] compra dal gruppetto di borseggiatori, è un attore grigio del mercato. 
+
+Uno molto in alto in catena del Ordine ha una villa in città. È un signore della città e tutte le cose che succedono succedono tramite lui. Il gruppo di borseggiatori agisce con il suo permesso e gli pagano un pizzo. Lui riceve degli oggetti piu preziosi che vengono rubati.
+
+Essendo curiosi di natura procediamo a vedere [[La Villa di ser Goar]].

@@ -1,0 +1,4 @@
+
+Proprietà privata, protetta dalle guardie. La porta interna é protetta da una barriera magica, danni da elettricità. Dentro c'è un cristallo con la magia pura condensata, non controllata. Toccarla fa un'effetto random (Ggh è stato curato toccandolo). Dentro ci sono altre porte, anche quelle protette con delle barriere. Le barriere sono legate ai sigilli, usano la magia elfica. La famiglia [[Caldwell]] è stata nominata più volte in relazione alla cripta. Pare che sia della loro proprietà. Da quello che dicono le guardie, a loro non piacciono non-umani.
+
+C'è un ingresso segreto nella cripta, dalla caverna nel muro distrutto dal lato orientale della città. Non è protetto dalla magia. La porta della cripta è chiusa, la può usare solo [[Sam]] stesso, lui sa come evitare la magia che la protegge.

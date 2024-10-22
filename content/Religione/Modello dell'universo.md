@@ -1,0 +1,1 @@
+Uno dei modelli dell'universo lo descrive come una cipolla. Un #piano  materiale puó essere visto come uno strato della cipolla. Poi ci sono anche degli spazi in mezzo a questi strati. L'[[Eterno]] cerca di evitare che la materia dagli spazi intrastratali entri negli "strati".

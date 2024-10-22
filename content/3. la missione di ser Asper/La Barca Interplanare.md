@@ -1,0 +1,6 @@
+
+Dopo l'esplosione nel[[l'Archivio]] ci siamo trovati in mezzo allo spazio dove vediamo fluttuare le roccia simili al #cristallo . Siamo stati presi su un'imbarcazione (una goletta) di circa 20-25m con un'albero, una barca a vela insomma. Sulla barca sta una ragazza coi capelli biondi, con le rune tatuate sulla pelle. [[Aramisus]] vede subito che è molto simile a lui. Si fa chiamare [[Brigitta]]. Oltre alla ragazza sulla barca stanno pure un cyborg e un'altra persona.
+
+[[Brigitta]] ci racconta che i #cristallo sono stati creati dallo [[Straniero]]. L'[[Eterno]] invece non vuole farli entrare nel nostro #piano. Dice che non sa attraversare i piani e che è la barca che le permette di viaggiare tra i piani. Dice che puó mangiare le rocce e per dimostrarlo mangia un pezzo di #cristallo. Ci racconta che una volta entrata nel nostro #piano non ne potrebbe piú uscire. Ci porta lá comunque perche in mezzo ai piani non potremmo sopravvivere. Ci riporta alla [[Fortezza della Sera]].
+
+![[incontro_con_brigitta.png]]

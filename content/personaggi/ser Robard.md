@@ -1,0 +1,1 @@
+S.E. Ser Robard di Tinteacque, Maestro d'armi dell'Ordine delle Tre Spade, nominato il Magister Militum per Occidente in perpetuo dalla Imperatrice Gloriana.

@@ -1,0 +1,1 @@
+![[pranzo_fortezza.png]]

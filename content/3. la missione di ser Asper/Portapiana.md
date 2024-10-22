@@ -1,0 +1,11 @@
+
+Siamo andati a Portapiana. Eravamo costretti ad aspettare una notte per fare i rifornimenti, i mercati erano chiusi. Siamo andati in una taverna (bella grande). [[Xröden]], [[Gurglinheir]] e [[Nymeria]] cercano di capire se qualcuno parli delle gallerie, ma non riescono a capire niente. [[Gurglinheir]] capisce che le #manticore sono uscite da un #tunnel che è stato scavato dalle persone sconosciute pagate per trovare l’ingresso a queste gallerie. Il giorno dopo ne sono uscite le manticore.
+
+  
+[[Aramisus]] durante la notte in taverna ha avuto una #visione. Nella prima ha visto la fortezza di #MonteAzzurro e ha visto l’esercito dell’Ordine in quantità talmente grandi che i soldati dovevano accamparsi fuori della fortezza. [[Aramisus]] osservava la scena dal balcone in alto sulla torre. Entrando nella stanza a fianco trovò [[ser Robard]] vestitio in un mantello nero col tablion bianco (segno di rango alto nell’Ordine) che guardava le mappe militari. Guardandoli da vicino si accorse che descrivevano il piano d’attacco del regno di Tahrin. [[Ser Robard]] ha visto [[Aramisus]] e ha detto che “le stelle avevano ragione” e che “il giorno era arrivato”. Poi ha toccato [[Aramisus]] sul fronte e la visione si è cambiata. [[Aramisus]] si è ritrovato in una sala rivestita d’oro, sempre su un balcone. Da questo balcone vede la cerimonia d’investitura del nuovo Maestro (un cavaliere riceve un mantello bianco col tablion rosso e simbolo dell’Ordine). [[Aramisus]] non riesce a vedere chi è.
+
+Parlando con le persone in taverna abbiamo attirato troppa attenzione. Di mattina è venuto il locandiere dicendoci che c’erano delle persone che volevano che scendessimo. Era una decina di persone che volevano che ci togliessimo dalla cittadina e non tornassimo piu, il che abbiamo fatto. Loro non si sono presentati, avevano l’armatura.
+
+![[taverna_portapiana.png]]
+
+Siamo arrivati al mulino, è stato completamente bruciato. Abbiamo trovato il cadavere del mugnaio, trafitto da una spada fuori dal mulino. Investigando il detrito del mulino [[Aramisus]] trova un dito umano con un anello decorato col simbolo dell’Ordine.
