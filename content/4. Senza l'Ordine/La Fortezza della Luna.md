@@ -1,0 +1,19 @@
+
+Esplorando le rovine della fortezza vediamo [[Arcturus]] uscire dalla colonna. Ci dice che non puó farci passare. Dice che gli hanno pagato per non farci raggiungere [[La Provincia di Elengard]]. Quello che li ha mandati è [[ser Goar]] che ha scoperto la nostra presenza per via del fatto che abbiamo lasciato [[Urban]] nella sua cittá. [[ser Goar]] ha acquisito il potere in provincia e non vuole che gli altri dell'Ordine si mettono in mezzo. Ha assunto [[Arcturus]] e i suoi amici per fermarci.
+
+Provando a fermarci vengono sconfitti. [[Uldin]] combatte insieme a noi e dopo la battaglia ci chiede scusa di averci portato direttamente nella trappola (senza saperlo, ovviamente). Alla fine della battaglia [[Arcturus]] che non vuole essere ucciso fa un patto con noi che lasciamo andare lui e la sua amica e lui non avrá dei problemi con noi se le nostre vie incroceranno in futuro. La sua missione è fallita. [[Io]] prima che se ne va gli mando un messaggio mentale. Gli communico che sarebbe bello lavorare insieme e che lui sa dove trovarmi se decide di farlo.
+
+Esploriamo la fortezza. Let è vecchia 900 anni. [[Io]] cammino lentamente toccando le mura leggendo la storia della fortezza. Vedo la vita dei cavalieri dell'Ordine molti anni fa. Nella sala da pranzo vedo come ereggono la statua di [[Gabalus]], sento una forte ammirazione provata nei suoi confronti. La statua è ancora intatta, ci avvicino percependo la magia proveniente da essa. La magia sembra di provenire dall'occhio sinistra della statua che è fatto da un cristallo. Questo cristallo ha le dimensioni di una palla da calcio, assomiglia al #cristallo di [[Mysila]] ma sembra piú "stagionato". 
+
+[[Io]] scalo la statua per capire che magia tiene. Non voglio rubare o toccare la pietra per il rispetto per [[Gabalus]] e l'Ordine. Anzi, dopo le visioni della fortezza vorrei preservare la statua cosi com'è. La pietra è bianca. Nonostante questo lo tiro fuori.
+
+L'occhio non ha nessun modo per essere attivato manipolandolo. Per ora è inerte. [[Io]] me lo tengo nella tasca interna, promettendo di proteggerlo e restaurare la statua com'era pensata in origine.
+
+[[Uldin]] ci saluta dando l'indirizzo di una strega, [[madame Luna]], che potenzialmente ci puó aiutare a capire il #cristallo . [[Xröden]] gli dice di non viaggiare da solo visto la situazione, ma [[Uldin]] ne è giá a conoscenza e spera di trovare degli accompagnatori durante il viaggio.
+
+[[Io]] tocco l'oggetto e sento che era legato a un dolore fisico viscerale, come se una parte del corpo venisse rimossa. Mi rendo conto che per utilizzare l'oggetto bisogna rimuovere una parte del proprio corpo. Faccio meditazione chiedendo aiuto agli spiriti ma tutto quello che mi communicano è "NOOOO". Sono convinto che dobbiamo capire la storia e la funzionalità di questo oggetto, perciò dobbiamo andare da [[madame Luna]].
+
+Rimaniamo a passare la notte nelle rovine. [[Io]] metto un'alarme che copre una bella parte degli ingressi e facciamo dei turni per sorvegliare i restanti ingressi. [[Nymeria]] mette la sua tenda e ci dormiamo tutti dentro appiccicati. [[Io]] faccio il primo turno ma non ci riesco a stare sveglio per tutto il turno e mi addormento negli ultimi due minuti. Lo vede [[Xröden]] che viene a fare il suo turno, ma lui invece di svegliarmi mi porta dentro la tenda. Durante il suo turno sente dei suoni che provengono dalla direzione della sala con la statua. Uscendo non vede niente. Lo dice a [[Nymeria]] che deve fare il prossimo turno. Lei rimane molto agitata e sta attenta tutto il turno anche se non sente niente di particolare. Anche [[il Barone]] viene avvisato e riesce a tener duro per poi dover passare il testimone a [[Gurglinheir]]. Lui dorme tutto il turno e noi ci svegliamo derubati di soldi.
+
+Poveri ma determinati ci dirigiamo verso il villaggio di [[Tussanum]] per trovare [[madame Luna]].
+

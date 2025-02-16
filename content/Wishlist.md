@@ -1,7 +1,6 @@
 
 **Utrustning:**
 - [Healer tools kit expanded](https://2e.aonprd.com/Equipment.aspx?ID=25)
-- [Healer’s gloves](https://2e.aonprd.com/Equipment.aspx?ID=444)
 - [Belt of Good Health](https://2e.aonprd.com/Equipment.aspx?ID=913)
 - [Battle Medics Baton](https://2e.aonprd.com/Equipment.aspx?ID=2187)
 - [Smoke Veil](https://2e.aonprd.com/Equipment.aspx?ID=2609)
@@ -27,5 +26,10 @@
 * Bind undead - undead minion 1 day
 * blindness
 
+**Feat:**
+* [Trick Magic Item](https://2e.aonprd.com/Feats.aspx?ID=5229)
+* 
+
 
 __NOTE:__ a alberto non piace Heal da 3 azioni
+neanche da 1 azione

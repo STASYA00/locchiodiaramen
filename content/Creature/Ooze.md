@@ -1,0 +1,1 @@
+Queste creature si coagulano attorno a certi liquidi usando dei componenti alchemici. Dopo coagularsi non possono piu cambiare il liquido a cui sono associati.

@@ -1,0 +1,1 @@
+Fondatore del[[l'Ordine delle Tre Spade]]. Ha combattuto verso le forze del caos, dello [[Straniero]] , sconfiggendole ed eradicando la magia dal continente.

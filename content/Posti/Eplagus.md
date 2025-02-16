@@ -1,0 +1,13 @@
+L'Impero di Eplagus è stato un regno che includeva le isole orientali dal 12 al 53. Questo regno aveva come centro l'antica città M'Ar che si trovava nell'isola XX al giorno d'oggi conosciuta come [[Colonia Rossa]]. Questo Impero esisteva per 350 anni ma solo 80 di loro contano verso il periodo d'oro. Mentre nella parte occidentale del Aramen ci sono i siti archeologici e i resti delle fortezze antiche, dell'Eplagus non si è preservato quasi niente. Gli abitanti delle isole si considerano i discendenti diretti del popolo di Eplagus e si ricordano l'Impero soprattutto perchè ha consolidato tutte le isole con le sue diverse culture e tradizioni in uno stato.
+
+### Etimologia
+
+I studiosi ritengono che _Eplagus_ deriva dal prearamenesco _epulaagu_ e in origine voleva dire _isola_, _terra_ da cui deriva anche la parola _arcipelago_.
+
+### Sviluppo
+
+L'Impero di Eplagus è stato fondato come una continuazione del regno Noctis come il risultato di una guerra di successione dopo la morte dell'ultimo regnante della casa Noctis. Questa guerra è durata 14 anni ??
+
+Eplagus è stato fondato su due regni già esistenti nell'area. Il primo, M'ar successivamente diventato la capitale, controllava le acque salate e le strade commerciali navali. M'Ar si trovava più vicino alla parte occidentale del Aramen rispetto alle altre isole grandi mentre quelle che erano piu vicino al continente non avevano abbastanza risorse per organizzare e sostenere un commercio frequente. Inoltre M'Ar è una delle poche isole che non entra nella zona seminotturna il che avvantaggia l'attività commerciale. Inoltre l'isola è posizionata in modo che le permette di controllare le due strade commerciali principali della zona. Per commerciare nella zona bisogna fermarsi nel porto M'Ar passando da entrambi i lati. La crescente attività commerciale non poteva che attrarre l'attenzione di chi in ricerca di guadagno veloce. Per questo una delle professioni sviluppata e masterata sull'isola è il corsarismo. Una delle scuole più famose del mondo di corsarismo si trova anch'essa in Eplagus. Fondata in un monastero isolato sulla montagna di Hekla è generalmente considerata una scuola elitaria e difficile da entrare. I corsari di s'Hekla sono considerati quelli più qualificati del mondo.
+
+![[Eplagus.png]]
