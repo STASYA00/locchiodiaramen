@@ -1,0 +1,1 @@
+Amica di [[Nymeria Cailean|Nymeria]]. Figlia del capo degli gnoll [[al Crocevia]]. Contraria all'attività criminale del suo padre. Aiutava [[Nymeria Cailean|Nymeria]] di contrastare i crimini in città, ma era troppo piccola per parteciparne direttamente anche se era sempre volentierosa. Aveva 15 anni al momento quando siamo arrivati [[al Crocevia]].

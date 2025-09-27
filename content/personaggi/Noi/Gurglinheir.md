@@ -1,0 +1,5 @@
+Un'elfo pazzo, vuole sperimentare con la magia. Il suo nome vuol dire <mark style="background: #D2B3FFA6;">"Dolce canto mortale"</mark>. Il suo nome originale era Solrath che vuol dire "sole splendente" in elfico. Questo nome non si ricorda nessuno, perchè è stato eliminato dalla memoria di tutti con la magia dopo l'incidente che ha causato da bambino.
+
+Quando era ragazzo stava imparando a cantare agli alberi. Gli elfi lo fanno per farli crescere belli alti. Con tempo i riti sono diventati più complessi e più difficili da maneggiare. Il giovane [[Gurglinheir]] ha fatto degli errori cantando un rito assai troppo complesso per lui e ha fatto esplodere tutto attorno uccidendo 400 persone. In questa esplosione morì sua famiglia, sia i genitori che il fratello gemello. O così credeva prima di arrivare [[al Crocevia]]. Il suo fratello [[Iolrath]] è riuscito a sopravvivere l'esplosione. 
+
+Ha dato fuoco alla casa di un tizio da cui abitava ad [[Acquacinta]], per ciò è stato cacciato via dalla città.

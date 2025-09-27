@@ -1,0 +1,2 @@
+Coetaneo di padre di [[Nymeria Cailean|Nymeria]], sua mano destra. Capitano delle guardie della città [[al Crocevia]]. Ha la piena fiducia di [[Nymeria Cailean|Nymeria]] .
+Un uomo di media età (circa 60 anni), abbastanza agile. Capelli bianchi, barba bianca, occhi fieri.

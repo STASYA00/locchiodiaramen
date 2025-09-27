@@ -3,3 +3,5 @@ Gloriana I Erenyll, Imperatrice di Alen, Signora delle Isole, Duchessa di Vestri
 Casa Erenyll é tornata al centro della politica imperiale solo recentemente, dopo secoli di marginalizzazione e povertá, coincidenti principalmente con il periodo della dominazione Andoriana iniziato nel 35eII e terminato nel 54eIX.
 
 ![[gloriana.png]]
+
+Si è sposata con [[Kosrau]] per unire l'impero con il regno di [[Tahrin]]. Nel mentre in [[Tahrin]] è successo il colpo di stato e il fratello di [[Kosrau]] [[Ormisdas]] ha preso il potere.

@@ -1,0 +1,1 @@
+Una gatta incontrata da [[Io|Aramisus]] [[al Crocevia]] nel locale (leggasi "bordello") di [[Madame Viola]]. Ha la pelliccia bianca soffice e gli occhi tiepidi marroni. [[Io]] le ho raccontato un po' delle mie avventure e del mio paese, sa che mi manca molto la mia terra.

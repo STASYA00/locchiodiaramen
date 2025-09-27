@@ -1,0 +1,1 @@
+L'antenato di [[Nymeria Cailean|Nymeria]], [[Alterf Caylean]] e la [[Nonna Caylean]]. È un uomo che è diventato un dio, per sbaglio. Visto che era una persona che apprezzava il vino, le feste e il divertimento, è diventato il dio di tutto ciò.
