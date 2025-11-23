@@ -1,1 +1,0 @@
-![[nonna_di_nymeria.png]]

@@ -1,0 +1,13 @@
+---
+aliases:
+  - lo spazio interplanare
+---
+Dal[[la casa di Appolonia]] ci spostiamo in un colpo in uno spazio strano e avversario. Assomiglia lo spazio #interplanare in cui abbiamo incontrato [[Brigitta]] nel[[La Barca Interplanare]].
+
+Di fronte a noi vediamo una strega con la pelle scura e i capelli biondi. Dice di aver mangiato [[Stucott]] anni fa. Io la guardo e domando il suo nome. Si chiama [[Aslynn]]. Vediamo che ha due lanterne sulla cintura. In una c'è una pietra simile al #cristallo ma di colore rosa o viola. Nell'altra ci sono delle animelle che sembrano dei fuochi vivaci.
+
+[[personaggi/Xröden|Xröden]] sa che lo spazio è stato organizzato da lei e che viene controllato da lei, anche se lei non è un dio e non è omnipotente. [[Io]] e [[personaggi/Nymeria|Nymeria]] capiamo che questo posto è influenzato dalla strega. Lei torna invisibile, ma è resa di nuovo visibile da [[personaggi/Noi/il Barone|il Barone]]. [[Io]] cerco di colpire le lanterne ma non ci riesco, colpisco la strega. [[personaggi/Xröden|Xröden]] scopre che è resistente al freddo, al fuoco e ai danni mentali e vulnerabile a cold iron. Ci dice che è resistente al fuoco. La strega fa tremare la terra e noi rischiamo di cadere nelle crepe destabilizzandoci. Sconfiggiamo la strega con [[Nymeria]] che le da il colpo di grazia piantando la spada nel cuore. Il corpo della strega si disintegra.
+
+[[Io]] corro e prendo le lanterne. Apro quella che contiene il #cristallo e le animelle ne volano via. L'altra lanterna le contiene ancora. Mi tengo il #cristallo e l'altra lanterna con le animelle. Cerco di leggere la risonanza psycometrica toccando il suo corpo e non la capisco per via del fatto che era un essere interplanare. Capisco che era l'essere piu malvaggio che abbiamo mai incontrato. E che era avida. Del #cristallo non capiamo molto, [[personaggi/Xröden|Xröden]] capisce solo che lui debba essere utilizzato come componente di qualcosa. Non sappiamo che cosa.
+
+Una volta abbiamo il tempo per guardarci intorno vediamo le rovine di un palazzo costruito sopra una grande pietra che vola nello spazio #interplanare. Noi siamo su una isola a fianco. Io cerco di saltare usando le piccole pietre in mezzo e cado. Vengo salvato dal [[personaggi/Noi/il Barone|il Barone]] e [[personaggi/Nymeria|Nymeria]]. Saltiamo da una isola all'altra e seguendo il sentiero arriviamo a quello che sembra un archivio di [[Aslynn]].

@@ -1,0 +1,9 @@
+Dal[[la piazza della ribellione]] andiamo verso la casa di [[Appolonia Corrini]]. Mandiamo [[Zhyriss]] dentro con la missione di trovare le prove che [[Appolonia Corrini]] sia coinvolta nella facenda del <mark style="background: #D2B3FFA6;"> artevil </mark>.
+
+[[Zhyriss]] gira dentro la villa e a un certo punto vede [[Stucott]] parlare con [[Appolonia Corrini|Appolonia]] dicendo che devono distruggere le prove e andarsene via attraverso le caverne. Noi capiamo dall'esperienza che se loro mettono il piede nelle grotte, non li ritroviamo piu.
+
+Entriamo invisibili nella sala da pranzo di [[Appolonia Corrini|Appolonia]] e ci rendiamo conto che [[Stucott]] ci vede. La porta si chiude di colpo, non possiamo piu uscire dalla stanza. [[Stucott]] inizia a parlarci, fa sparire [[Appolonia Corrini|Appolonia]] che non capisce niente e non sa niente dello [[Straniero]]. [[Stucott]] ammette di essere il servo dello [[Straniero]] e ride delle accuse di [[personaggi/Nymeria|Nymeria]] di avere [[Murgawa]] come il suo capo. Dice di non avere nessuna ideologia dietro le sue azioni, viene pagato per farlo.
+
+[[Stucott]] concede due domande a [[Io|me]]. Io sono confuso, gli chiedo come dovrebbe andare la sua parte del piano e da dove prende le forze. [[Stucott]] risponde che la sua parte sarebbe evocare caos nella città, mentre le sue forze vengono dagli eoni dell'esperienza.
+
+[[Stucott]] prende il bastone per il corpo. Vediamo che sotto la sua mano c'era un #cristallo simile a quello che abbiamo visto precedentemente. Sbatte il #cristallo sul pavimento, si rompe e ci troviamo nel[[Lo spazio della strega|lo spazio interplanare]]. 
