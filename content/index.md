@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: L'occhio di Aramen
+description: Cronache di un'avventura fantasy nella provincia di Vestria
+image: /mappe/Eplagus.png
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# L'occhio di Aramen
+
+Benvenuti alle cronache della nostra campagna di gioco di ruolo ambientata nel mondo di Aramen.
