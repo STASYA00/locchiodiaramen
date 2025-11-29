@@ -7,9 +7,9 @@ Gli affreschi sono:
 - affresco 3: foresta autunnale 
 - affresco 4: cime innevate delle montagne
 
-Abbiamo messo una bacca Goodberry dentro il vaso e creato dell'acqua sopra. Il meccanismo si è attivato e la pianta è cresciuta. [[Gurglinheir]] non capendo come funziona ha ghiacciato la pianta ed è morta.
+Abbiamo messo una bacca Goodberry dentro il vaso e creato dell'acqua sopra. Il meccanismo si è attivato e la pianta è cresciuta. [[Gurglinheir]], non capendo come funziona, ha ghiacciato la pianta ed è morta.
 
-Dopo numerose discussioni abbiamo deciso di rifare. Mettiamo la bacca nel vaso e lasciamo cadere dell'acqua sopra. Dopodichè [[Nymeria]] genera la luce con la sua spada brillante il che fa crescere la pianta (l'estate). Non riusciamo a capire cosa fare, [[Aramisus]] chiede aiuto agli spiriti, si mette a meditare e scrive degli segni
+Dopo numerose discussioni abbiamo deciso di rifare. Mettiamo la bacca nel vaso e lasciamo cadere dell'acqua sopra. Dopodiché [[Nymeria]] genera la luce con la sua spada brillante, il che fa crescere la pianta (l'estate). Non riusciamo a capire cosa fare, [[Aramisus]] chiede aiuto agli spiriti, si mette a meditare e scrive dei segni
 
 ![[primavera.png]]
 ![[estate.png]]
