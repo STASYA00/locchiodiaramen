@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "it-IT",
-    baseUrl: "https://github.com/STASYA00/locchiodiaramen",
+    baseUrl: "STASYA00.github.io/locchiodiaramen",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

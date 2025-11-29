@@ -1,0 +1,2 @@
+Scheletro parlante.
+![[Grin.png]]
