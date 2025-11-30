@@ -34,7 +34,7 @@ Durante il rituale arriva correndo un ragazzino gridando "Aiuto!". [[Nymeria Cai
 [[Gurglinheir]] e [[Xröden]] non riescono a capire come aiutare [[madame Luna]]. [[Io]] sono andato a trovare un contadino che sia bravo nell'agricoltura e l'ho convinto ad aiutarci nello svolgimento del rituale.
 Noi abbiamo capito dove sono andati loro e corriamo ad aiutarli.
 
-Appena arrivati vediamo [[Nymeria Cailean]] venire inglobata da un [[Golem]]. Capiamo che questi golem sono vulnerabili al ghiaccio e li sconfiggiamo salvando il bambino. [[Io]] non riesco a contribuire tanto alla battaglia e ci rimango male. [[Gurglinheir]] e [[Nymeria Cailean]] cercano di consolarmi ma mi deprimo comunque.
+Appena arrivati vediamo [[Nymeria Cailean]] venire inglobata da un [[Golem]]. Capiamo che questi golem sono hanno #vulnerabilità  al ghiaccio e li sconfiggiamo salvando il bambino. [[Io]] non riesco a contribuire tanto alla battaglia e ci rimango male. [[Gurglinheir]] e [[Nymeria Cailean]] cercano di consolarmi ma mi deprimo comunque.
 
 I genitori del ragazzino (Conan) arrivano correndo e si mettono a frugare nel furgoncino. Io vado ad aiutarli (anche per tenere gli attrezzi di [[madame Luna]] salvi) mentre [[Gurglinheir]] aiuta all'altro. [[madame Luna]] arriva cavalcando un [uccellaccio](https://2e.aonprd.com/Images/Monsters/TerrorBird.png) e ci rimane male alla vista del furgoncino. La vediamo proprio disperata e cerchiamo di aiutarla. Le aiutano anche gli altri popolani per via di essersi sentiti in colpa. I genitori (il padre è un fabbro) dicono che ci sono #indebitati perche abbiamo salvato la vita del loro figlio.
 
