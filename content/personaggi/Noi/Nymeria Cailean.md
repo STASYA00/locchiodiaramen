@@ -13,3 +13,5 @@ Amici di Nymeria, figli di nobili del Club del Leone, sono i compagni di avventu
 -  Corentin Aisling: un ragazzo alto e snello, impacciato e perennemente con la testa tra le nuvole. Nel combattimento diventa iper focused e micidiale.
 
 Da piccola aveva un gatto cecco. Quando diventò vecchio se ne andò via il che abbia causato tristezza alla ragazzina.
+
+Dall'avventura ne [[Lo spazio della strega]] porta [gli stivali](https://2e.aonprd.com/Equipment.aspx?ID=3059&Redirected=1) di pelle.

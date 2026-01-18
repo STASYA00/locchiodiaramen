@@ -4,4 +4,6 @@
 Pensa che la sua tribù sia sopravvissuta ( o che almeno non sia alleata).
 Ha delle relazioni complicate col suo padre.
 
+Dall'avventura ne [[Lo spazio della strega]] porta [uno scudo](https://2e.aonprd.com/Equipment.aspx?ID=2823&Redirected=1) dorato con la testa di leone sopra.
+
 ![[il_barone_2.png]]

@@ -10,6 +10,8 @@
 - [Staff of Healing](https://2e.aonprd.com/Equipment.aspx?ID=357)
 - [Censer](https://2e.aonprd.com/Equipment.aspx?ID=2601)
 - [Flask of Fellowship](https://2e.aonprd.com/Equipment.aspx?ID=1056)
+- [Staff of Metal](https://2e.aonprd.com/Equipment.aspx?ID=2621)
+- [Staff of Elemental Power](https://2e.aonprd.com/Equipment.aspx?ID=3040)
 
 **manca per livellare:**
 * 1 3rd level spells 
