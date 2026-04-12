@@ -1,1 +1,0 @@
-![[Nymeria.png]]

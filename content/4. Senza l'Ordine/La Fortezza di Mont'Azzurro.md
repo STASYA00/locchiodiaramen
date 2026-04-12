@@ -18,10 +18,10 @@ Riceviamo degli ordini nuovi.
 * capire quante persone sono rimaste dell'Ordine che possano votare
 * trovare una persona che possa sostituire [[ser Robard]] nel suo incarico come il Magister Militum.
 
-[[ser Robard]] ci chiede di recuperare una reliquia dell'Ordine, lo #stendardo di [[Gabalus]]. Il motivo per questo è che questa reliquia ci da la possibilità di presentarci di fronte all'Imperatrice [[Gloriana]]. È un simbolo molto forte dal punto di vista dello status. Ci darebbe il diritto di ricostruire l'Ordine e di convincere le masse di unirsi a noi.
+[[ser Robard]] ci chiede di recuperare una reliquia dell'Ordine, lo #stendardo di [[Gabalus]]. Il motivo per questo è che questa reliquia ci da la possibilità di presentarci di fronte all'Imperatrice [[Gloriana Erenyll]]. È un simbolo molto forte dal punto di vista dello status. Ci darebbe il diritto di ricostruire l'Ordine e di convincere le masse di unirsi a noi.
 
 Sappiamo che [[Gabalus]] è stato sepolto al sud. Ci segna un posto sulla mappa, si chiama [[Solastia]].
-![[solastia_posizione.png]] Ser [[Gabalus]] è andato al sud con un piccolo gruppo di cavalieri per sconfiggere dei mostri che nessuno crede esistere. È morto in questa spedizione ed è probabile che lo stendardo sia là.
+![[mappe/solastia_posizione.png]] Ser [[Gabalus]] è andato al sud con un piccolo gruppo di cavalieri per sconfiggere dei mostri che nessuno crede esistere. È morto in questa spedizione ed è probabile che lo stendardo sia là.
 
 [[ser Robard]] ha paura della nostra vita e ci dice di andarcene dal paese. Un motivo in più per questo sarebbe di posticipare le elezioni che non possono essere tenute senza notificare tutti i membri col diritto di voto. [[ser Robard]] dice che può mandare la lettera all'Imperatrice [[Gloriana Erenyll]] e a [[ser Goar]] per assicurare che tutti sappiano che noi siamo vivi e dovremmo essere avvisati nel caso delle elezioni. 
 

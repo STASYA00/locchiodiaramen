@@ -1,0 +1,1 @@
+La figlia di [[Aslynn]]. Sorella di [[Suhko]] e [[Sounrel]].

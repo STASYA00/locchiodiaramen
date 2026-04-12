@@ -1,0 +1,1 @@
+il drago di [[Zhyriss]], l'Occhio della Marea. Un drago maschio.

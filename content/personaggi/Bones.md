@@ -1,0 +1,1 @@
+un uomo molto largo, fa il cuoco sulla nave di [[capitano Vargo]]. È stato uno dei primi a unirsi a lui. Ha fatto amicizia con [[Io|me]].

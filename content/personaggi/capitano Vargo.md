@@ -1,0 +1,2 @@
+Il capitano dell'imbarcazione La Scia d'Avorio. 
+Un baleniere, il suo sogno è di prendere il [[Megalodonte|megalodonte]] più grande mai visto. Ha preso diversi [[Megalodonte|megalodonti]] nel corso della sua carriera da marinaio.

@@ -1,0 +1,1 @@
+Figlio di [[Aslynn]], fratello di [[Narcela]] e [[Suhko]].

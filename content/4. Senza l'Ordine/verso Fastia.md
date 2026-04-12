@@ -1,0 +1,21 @@
+Dopo essere tornati [[al Crocevia]] dobbiamo prendere una nave per andare a [[Fastia]] nella ricerca dello stendardo.
+
+Arriviamo nel [[Porto Imperatore]] e ci passiamo una notte. Di mattina facciamo la colazione e ci mettiamo a discutere della magia col vecchio locandiere. Poi andiamo nel porto e cerchiamo una nave per andare verso [[Fastia]]. Un tizio nel porto dice a [[personaggi/Xröden|Xröden]] che c'è una nave, <mark style="background: #D2B3FFA6;"> La scia d'avorio </mark>che potrebbe andare in questa direzione. Andiamo subito verso quella nave. Il capitano ci da il passaggio per soli 25 monete d'oro a testa. Noi diciamo che vogliamo rimanere anonimi e il capitano ci dà la garanzia a patto che non mettiamo il naso nei suoi affari.
+
+Dopo qualche ora sulla nave ci rendiamo conto che il capitano è un baleniere. [[Nymeria Cailean|Nymeria]] e [[personaggi/Xröden|Xröden]] sono convinti che sia un'attività legale e pure rispettata mentre [[Grin]] ha dei ricordi che fosse un'attività talmente pericolosa sia per se che per gli altri che era strettamente vietata. È spaventato.
+
+La ciurma non è grande, sono otto uomini oltre al capitano. [[personaggi/Noi/il Barone|il Barone]] aiuta sulla nave facendo dei piccoli lavori. 
+[[Io]] vado direttamente in cucina sperando di mangiare il pesce. Incontro il cuoco [[Bones]], un uomo molto largo, che sta tagliando le teste ai pesci. Non mi permette di mangiare il pesce ma mi da l'incarico di fare la zuppa coi resti dei pesci. Mentre lo faccio apriamo una bottiglia di liquore allungandolo con l'acqua del mare e facciamo amicizia. Mi racconta che era uno dei primi a unirsi al [[capitano Vargo]]. Parliamo della ciurma, mi racconta dei [[Megalodonte|megalodonti]] e della loro caccia. Hanno preso dei [[Megalodonte|megalodonti]] anni fa, ma ora è da tanto tempo che non ne prendono uno. Il sogno di [[capitano Vargo]] è di prendere il [[Megalodonte]] piu grande che è stato visto proprio poco fa vicino a [[Mestia]].
+
+Dopo qualche giorno di viaggio a un certo punto sentiamo uno chiamare il [[capitano Vargo]] dicendo di aver notato un [[Megalodonte|megalodonte]]. Vediamo una macchia che potrebbe essere proprio la bestia che stiamo cercando; iniziamo ad inseguirla. Tutti gli attrezzi che servono per la caccia vengono portati sulla nave.
+
+A un certo punto la nave viene colpita da qualcosa e si sbilancia verso il lato sinistra. [[Io]] corro verso il lato destra per bilanciare la nave, mentre [[Zhyriss]] corre verso il lato destra. C'è un tentacolo che la afferra e solleva nell'aria. Il [[capitano Vargo]] ci urla di aiutarla, nello stesso tempo sentiamo un altro colpo sulla prua della nave. La creatura [[Alghollthu]] afferra anche [[personaggi/Noi/il Barone|il Barone]].
+
+[[capitano Vargo]] chiede aiuto per buttar via l'acqua dalla nave e [[Io]] corro giù per aiutarlo.
+sono stato coperto dalla melma che viene dal tentacolo. [[personaggi/Noi/il Barone|il Barone]] e [[Zhyriss]] sono stati posseduti dagli [[Alghollthu]] e hanno iniziato a fare delle azioni distruttive contro la nave. La nave sta affogando, le vele stanno bruciando. Capisco che il mio aiuto serve sopra, corro e cerco di mantenere in vita [[personaggi/Noi/il Barone|il Barone]] per avere qualche possibilità di uscire vivi da questo macello.
+
+A un certo punto [[capitano Vargo]] scappa. Vediamo che anche gli [[Alghollthu]] si scappano. E non a caso! Arriva un [[Megalodonte]] e carica la nave spezzando la nave in due pezzi. Finiamo nell'acqua. [[Megalodonte]] non è interessato a noi visto che siamo piccoli, il suo interesse era spezzare la barca. Ci aggrappiamo ai pezzi della nave e dopo diverse ore ci troviamo sulla spiaggia trasportati dalla corrente.
+
+Ci troviamo in una baia circondata da una scogliera con le rocce a picco che ci impediscono di passare oltre. In lontananza vediamo che c'è una curva dove potrebbe esserci qualcosa. Io mi sveglio, tossisco e creo un po' d'acqua potabile da bere. La bevo io e la offro agli altri accarezzandoli. [[Grin]] riesce a trovare dei pesci per sfamarci. [[Io]] e [[Nymeria Cailean|Nymeria]] curiamo il gruppo dopodiché ci dirigiamo all'ansa per vedere cosa sta dietro la curva.
+
+Dopo aver percorso un cammino che sembra aver visto l'ultima persona camminarlo diversi anni fa, arriviamo a una porta di marmo nero di [[al Khaz'blanhar]].
