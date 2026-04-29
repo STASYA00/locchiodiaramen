@@ -2,4 +2,4 @@ Lucius Erenyll, IV Conte di [[Selvabruna]], é l'attuale signore della Vestria m
 
 Il figlio ed erede di lord Lucius, [[ser Hans]], é famoso per essere spendaccione, donnaiolo e poco attento alla politica. Lucius soffre particolarmente dell'indisciplina di Hans, sia perché sinceramente preoccupato per il futuro del figlio, sia paura che il buon nome della famiglia ne resti infangato.
 
-==Relazioni tendenzialmente negative.== Ci ha accolto a Selvabruna e incaricato a trovare suo figlio [[ser Hans]]. Noi non l'abbiamo trovato. Per peggiorare la situazione ha scoperto la storia di [[Waterboardando Karina]]  che Vorr ha fatto a [[Karina]] e al [[Charlatano]] e ci ha bandito dalla città. Sa che siamo dell'Ordine.
+==Relazioni tendenzialmente negative.== Ci ha accolto a Selvabruna e incaricato a trovare suo figlio [[ser Hans]]. Noi non l'abbiamo trovato. Per peggiorare la situazione ha scoperto la storia di [[Waterboardando Karina]]  che [[Vorr]] ha fatto a [[Karina]] e al [[Charlatano]] e ci ha bandito dalla città. Sa che siamo dell'Ordine.
