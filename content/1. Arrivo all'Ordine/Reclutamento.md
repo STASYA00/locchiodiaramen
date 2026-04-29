@@ -1,1 +1,1 @@
-![[reclutamento.png]]
+![](https://storage.googleapis.com/aramen/mosaici/reclutamento.png)

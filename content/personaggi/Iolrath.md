@@ -4,4 +4,4 @@ Tiene una bancarella [[al Crocevia]].
 Assomiglia [[Gurglinheir]] ma è più muscoloso e sembra piu concentrato sul suo corpo e sua forza fisica.
 
 Il primo incontro succede [[al Mercato degli Schiavi]] quando viene venduto a un uomo.
-![[iolrath_venduto.png]]
+![](https://storage.googleapis.com/aramen/posti/iolrath_venduto.png)

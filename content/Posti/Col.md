@@ -1,1 +1,0 @@
-La città costruita sulle palude al sud dell'Impero. Sta vicino al golfo che separa l'Impero dal[[La Reppublica di Reen]].

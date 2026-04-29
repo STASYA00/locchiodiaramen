@@ -3,4 +3,4 @@ Dice di non ricordarsi niente, i primi minuti che si ricorda erano nel[[Lo spazi
 
 Dopo l'avventura ne [[Lo spazio della strega]] ha [la sciarpa](https://2e.aonprd.com/Equipment.aspx?ID=3095&Redirected=1) che gli permette di cambiare l'aspetto mentre la indossa. La sciarpa diventa invisibile quando è indossata.
 
-![[Grin.png]]
+![](https://storage.googleapis.com/aramen/ritratti/Noi/Grin.png)

@@ -8,5 +8,5 @@ I fantasmi non sono comuni. Il fantasma di [[Nyven]] è quasi corporeo. [[Nyven]
 
 [[Nyven]] ci porta al #cristallo. Seguiamo lui, ci stanchiamo molto per la via del percorso lungo. Per fortuna [[Nyven]] ha un termos con del [caffé](https://2e.aonprd.com/Equipment.aspx?ID=623) che ci cura dalla stanchezza. Procediamo verso [[l'Archivio]].
 
-![[incontro_di_nyven.png]]
+![](https://storage.googleapis.com/aramen/mosaici/incontro_di_nyven.png)
 

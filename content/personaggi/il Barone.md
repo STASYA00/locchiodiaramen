@@ -1,1 +1,1 @@
-![[ilBarone.png]]
+![](https://storage.googleapis.com/aramen/ritratti/Noi/ilBarone.png)

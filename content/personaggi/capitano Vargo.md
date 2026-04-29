@@ -1,7 +1,7 @@
 Il capitano dell'imbarcazione La Scia d'Avorio. 
 Un baleniere, il suo sogno è di prendere il [[Megalodonte|megalodonte]] più grande mai visto. Ha preso diversi [[Megalodonte|megalodonti]] nel corso della sua carriera da marinaio.
 
-![[vargo.png]]
+![](https://storage.googleapis.com/aramen/ritratti/vargo.png)
 
 Il Capitano Vargo "Scheggia" Rhen è un mercante di [[Fastia]] e il comandante della _Scia d'Avorio_.
 

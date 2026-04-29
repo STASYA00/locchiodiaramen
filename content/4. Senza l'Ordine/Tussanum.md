@@ -1,6 +1,6 @@
 Entrando ci troviamo in un piccolo villaggio medievale. Tutto sembra normale tranne l'odore putrescente onnipresente. Sembra l'odore dei cadaveri anche se non sembra un'odore dei cadaveri umani. Nella periferia della città vediamo diversi barili giganteschi.
 
-![[Tussanum.png]]
+![](https://storage.googleapis.com/aramen/posti/Tussanum.png)
 
 Andiamo al municipio per vedere se ci sono dei lavori che possiamo fare per guadagnare qualche soldo. Vediamo una nota con scritto:
 

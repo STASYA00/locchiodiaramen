@@ -5,7 +5,7 @@ aliases:
 ---
 io sono [[Aramisus]].
 
-![[Aramisus.png]]![[aramisus_3.png]]
+![](https://storage.googleapis.com/aramen/ritratti/Noi/Aramisus.png)![](https://storage.googleapis.com/aramen/ritratti/Noi/aramisus_3.png)
 
 Un catfolk, proviene dai paesi del lontano oriente.
 

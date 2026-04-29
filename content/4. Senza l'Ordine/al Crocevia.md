@@ -10,7 +10,7 @@ Vediamo un'accampamento molto largo fuori dalla cinta muraria. Questo accampamen
 
 Ci da nell' #inventario  una lettera che ci fa entrare e uscire dalla città senza dover fare la fila. 
 
-![[crocevia.png]]
+![](https://storage.googleapis.com/aramen/posti/crocevia.png)
 
 Dentro la città la situazione è più calma. Notiamo molti mercanti gnoll.
 

@@ -4,14 +4,14 @@ Entriamo in una stanza con il soffitto alto. La stanza è vuota. Ci sono due per
 
 Nella prossima stanza ci sono funghi giganteschi. [[Gurglinheir]] dice che i funghi hanno spore velenose che spargono in giro molto velocemente. Nella prossima stanza [[Aramisus]] nota una spada poco pregiata. Non ha nessun tipo di segno. A [[Nymeria]] sembra una spada esotica che potrebbe provenire dal paese del Barone. Subito dopo troviamo due scheletri recenti, disossati e ripuliti per bene dalla carne. Notiamo anche il terzo scheletro che è morto per le ferite, ripulito anche lui. Sembra che stessero scappando da qualcosa e abbiano trovato la loro fine qui. Sono morti da qualche giorno. Troviamo che tutti e tre hanno lo stesso anello che abbiamo trovato in [[Il Mulino di Portapiana]]. Prendiamo questi anelli. Più avanti vediamo che c'è un posto per una brutta imboscata. Lasciamo un segno (un teschio) sul muro per ricordarcelo nel caso dovessimo tornarci.
 
-![[nelle_Caverne.png]]
+![](https://storage.googleapis.com/aramen/mosaici/nelle_Caverne.png)
 
 Usciamo dalla stanza, procediamo. C'è un bivio con piu pietre del solito (grandi) a destra. [[Aramisus]] guarda le pietre, non nota nulla. Procediamo a destra, perchè c'era una trappola messa lá (e quindi qualcosa da proteggere). Toviamo una stanza con la palizzata, 4 sacchi-a-pelo, una lampada lasciata in giro. [[Xröden]] trova un proclamo nei vestiti lasciati per terra. Questo proclamo dice che [[ser Robard]] è stato nominato il capo dell'esercito d'Occidente il che conferma la #visione di [[Aramisus]] in [[Portapiana]]. Di solito questo incarico ha il capo dell'Ordine. Questo mostra che la regina favoreggia [[ser Robard]] (prima delle elezioni) e vuole mostrare il suo sostengo per lui. Inoltre #troviamo 5 pozioni di waterbreathing, un cino, le carte da gioco, 5 bussole. Mangiamo il pane secco che troviamo là. [[Aramisus]] rimane inauseato da quel pane, si sente male tutto il giorno. Lo stesso accade anche per [[Xröden]]. Capiamo che è un posto temporaneo, ma la palizzata c'è da molto tempo. Questo posto è stato usato per passare la notte piu volte, probabilmente dallo stesso gruppo delle persone.
 
 Siamo in un corridoio che ci può portare in 4 direzioni diverse. Andiamo da dove sembra tirare il vento. Troviamo una stanza con il soffitto molto alto e aperture che danno direttamente al cielo. In questa stanza ci sono due animali grandi che stanno mangiando qualcosa (corpi umani). Sembrano essere cuccioli di qualche rettile. Sono affini a un drago, delle viverne. Vediamo anche un tesoro in fondo alla stanza. Decidiamo di combatterli, anche se [[Nymeria]] e [[Xröden]] non erano convinti.
 [[il Barone]] quasi muore durante la battaglia ma viene stabilizzato da [[Aramisus]]. Il gruppetto non è molto bravo a #combattere, ma riusciamo a sconfiggere le creature volanti.
 
-![[battaglia_viverne.png]]
+![](https://storage.googleapis.com/aramen/mosaici/battaglia_viverne.png)
 Dopo aver sconfitto le viverne #troviamo:
 * Healer's Gloves (le prende [[Aramisus]])
 * Una bacchetta magica con un incantesimo offensivo dei druidi (la prende [[Gurglinheir]])
@@ -27,14 +27,14 @@ Procediamo con la zattera muovendoci a sinistra sul lago. Vediamo una nebbia fit
 
 Siamo stati #attaccati dai mist stalker. Non vediamo cosa sono di preciso, vediamo solo i tentacoli che escono dalla nebbia. [[Aramisus]] è stato colpito più volte ed è svenuto. Combattendo contro i tentacoli si è reso conto che sono #immuni a Blood Vendetta e hanno buoni riflessi. [[il Barone]] ha dato una bella martellata ai tentacoli facendo una polpa di polpo. Il Barone fa a pezzi due mostri. [[Nymeria]] nel frattempo stabilizza Aramisus.
 
-![[Attacco_dei_tantacoli.png]]
+![](https://storage.googleapis.com/aramen/mosaici/Attacco_dei_tantacoli.png)
 
 [[Aramisus]] viene ulterioramente curato da [[Gurglinheir]] e riesce a colpire il tentacolo con una scimitarra di luce e fuoco.
 
 Alla fine abbiamo capito che ci sono troppi tentacoli che compaiono dal nulla. Siamo stati costretti a scappare sull'acqua prendendo la zattera. Scegliamo di andare a sinistra e ci troviamo a un incrocio dovendo scegliere tra 4 direzioni diverse. Metto il sigillo magico sull'ingresso da cui siamo venuti. Entriamo in un labirinto dove non ci sono spiagge. Invece c'è una magia di natura sconosciuta e livello molto alto che ci aumenta la stanchezza. Pensiamo che possa essere una forma di magia primaria. Decidiamo di scappare di nuovo, sempre a sinistra. Troviamo una piccola spiaggia dove dormiamo, ci curiamo, mangiamo ecc. Prima di dormire [[Aramisus]] fa meditazione chiedendo agli spiriti sulla magia incontrata precedentemente. Gli spiriti gli hanno comunicato solo una parola, #cristallo. Sulla spiaggia troviamo oggetti di legno senza alcun segno. Oltre a quelli non troviamo niente.
 Procedendo sempre a sinistra siamo riusciti a evitare una nuvola di piragna attraversando le acque basse con la zattera. Entrando nella prossima spiaggia abbiamo incontrato ragni giganteschi e corpi umani avvolti in ragnatele. Abbiamo combattuto e di conseguenza sconfitto i ragni. #combattere 
 
-![[Attacco_dei_ragni.png]]
+![](https://storage.googleapis.com/aramen/mosaici/Attacco_dei_ragni.png)
 Investigando vicino ai cadaveri [[Aramisus]] trova un foglietto con le istruzioni nelle mani di un cadavere. Inoltre #troviamo una [borsa spaziosa](https://2e.aonprd.com/Equipment.aspx?ID=3032), [uno scudo](https://2e.aonprd.com/Equipment.aspx?ID=2826) e [il rosario](https://2e.aonprd.com/Equipment.aspx?ID=256). I cadaveri hanno vestiti dell'Ordine e anelli. Aramisus mette il rosario sul collo, però fa effetto solo tenuto nella mano.
 Nella direzione NE [[il Barone]] trova una frana e dice che scavando là si potrebbe arrivare da qualche parte. Ci mettiamo a scavare per 2 ore, facciamo crollare il muro su di noi e siamo costretti a riposare e curarci. Nel mentre [[Aramisus]] parla con gli spiriti e vive gli ultimi 10 minuti della vita delle persone trovate nella grotta. Sono arrivati facendo lo stesso percorso di noi. [[Gurglinheir]] lancia un incantesimo dopo l'altro verso il muro e fa quasi crollare tutta la grotta.
 Invece di procedere a NE andiamo nella prossima stanza a SO. Facendo il solito segno sui muri del labirinto [[il Barone]] sviene. [[Aramisus]] si avvicina cercando di capire cosa gli è successo e vede che [[il Barone]] sta diventando trasparente. Piano piano svengono tutti tranne [[Gurglinheir]]. Lui resiste e fa un paio di passi in avanti, poi cade attraverso il pavimento verso [[Il tempio dello Straniero]].

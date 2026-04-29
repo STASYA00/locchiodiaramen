@@ -4,4 +4,4 @@ Quando siamo entrati nella sala [[Aramisus]] ha sentito un dolore insopportabile
 
 I maghi restanti cercano di chiudere il portale ma non ci riescono. La terra inizia a tremare. Un mago lancia una palla di fuoco verso Zuhrà ma lo manca. Il gruppo combatte ferocemente e grazie agli sforzi di [[Gurglinheir]] e [[Xröden]], che è quasi morto in battaglia, [[Nymeria]] riesce a sconfiggere Zuhra. Mentre combattiamo il soffitto piano piano crolla e alla fine della battaglia l'Archivio viene completamente distrutto. L'edificio ci cade in testa e l'ultima cosa che vediamo prima di cadere nel buio è il #portale. Aprendo gli occhi ci troviamo accanto alla [[La Barca Interplanare]].
 
-![[battaglia_dell_archivio.png]]
+![](https://storage.googleapis.com/aramen/mosaici/battaglia_dell_archivio.png)

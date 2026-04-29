@@ -3,7 +3,7 @@ aliases:
   - Lord Caylean
   - padre di Nymeria
 ---
-![[padre_di_nymeria.png]]
+![](https://storage.googleapis.com/aramen/ritratti/padre_di_nymeria.png)
 
 Padre di [[Nymeria Cailean|Nymeria]]. Lord Caylean.
 

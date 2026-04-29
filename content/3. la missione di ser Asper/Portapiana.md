@@ -6,6 +6,6 @@ Siamo andati a Portapiana. Eravamo costretti ad aspettare una notte per fare i r
 
 Parlando con le persone in taverna abbiamo attirato troppa attenzione. Di mattina è venuto il locandiere dicendoci che c'erano persone che volevano che scendessimo. Era una decina di persone che volevano che ci togliessimo dalla cittadina e non tornassimo più, il che abbiamo fatto. Loro non si sono presentati, avevano l'armatura.
 
-![[taverna_portapiana.png]]
+![](https://storage.googleapis.com/aramen/mosaici/taverna_portapiana.png)
 
 Siamo arrivati al mulino, è stato completamente bruciato. Abbiamo trovato il cadavere del mugnaio, trafitto da una spada fuori dal mulino. Investigando i detriti del mulino [[Aramisus]] trova un dito umano con un anello decorato con il simbolo dell'Ordine.

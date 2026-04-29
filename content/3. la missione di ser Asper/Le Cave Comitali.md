@@ -1,4 +1,4 @@
-![[affrescho delle manticore.png]]
+![](https://storage.googleapis.com/aramen/mosaici/affrescho%20delle%20manticore.png)
 Ci siamo diretti alle Cave Comitali. Siamo sul territorio di [[ser Lucius]]. Le cave sembrano essere attive ma abbandonate. Abbiamo tolto i vestiti dell'Ordine. Vediamo le tracce della gente che si è allontanata in fretta. Vediamo le tracce di sangue che sono state pulite. Non vediamo cadaveri, anche se sembra che qui abbia avuto luogo un combattimento.
 
 Quando [[Nymeria]] attraversa un ponte sente urlo che sembra provenire da un corvo gigantesco. Capiamo che sono delle #manticore che dobbiamo #combattere per non essere mangiati.

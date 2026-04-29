@@ -1,1 +1,1 @@
-![[khalid.png]]
+![](https://storage.googleapis.com/aramen/ritratti/khalid.png)

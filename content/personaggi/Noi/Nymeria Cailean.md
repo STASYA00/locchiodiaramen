@@ -3,7 +3,7 @@ aliases:
   - Nymeria
 ---
 
-![[Nymeria.png]]
+![](https://storage.googleapis.com/aramen/ritratti/Noi/Nymeria.png)
 
 Ha passato molti anni a [[Dareloth]] studiando nell'Academia. Il padre di Nymeria, [[Alterf Cailean]], ha partecipato nell'unificazione dell'Impero 40 anni fa ed era uno dei primi sostenitori di [[Daelius Erenyll]], padre di [[Gloriana Erenyll]]. Quando ci siamo incontrati aveva 18 anni. Quando siamo [[al Crocevia]] ne ha 20.
 

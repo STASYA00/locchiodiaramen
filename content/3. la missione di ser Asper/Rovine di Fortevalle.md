@@ -11,10 +11,10 @@ Abbiamo messo una bacca Goodberry dentro il vaso e creato dell'acqua sopra. Il m
 
 Dopo numerose discussioni abbiamo deciso di rifare. Mettiamo la bacca nel vaso e lasciamo cadere dell'acqua sopra. Dopodiché [[Nymeria]] genera la luce con la sua spada brillante, il che fa crescere la pianta (l'estate). Non riusciamo a capire cosa fare, [[Aramisus]] chiede aiuto agli spiriti, si mette a meditare e scrive dei segni
 
-![[primavera.png]]
-![[estate.png]]
-![[autunno.png]]
+![](https://storage.googleapis.com/aramen/mosaici/affreschi_fortevalle/primavera.png)
+![](https://storage.googleapis.com/aramen/mosaici/affreschi_fortevalle/estate.png)
+![](https://storage.googleapis.com/aramen/mosaici/affreschi_fortevalle/autunno.png)
 
-![[inverno.png]]
+![](https://storage.googleapis.com/aramen/mosaici/affreschi_fortevalle/inverno.png)
 
 #missioneserAsper

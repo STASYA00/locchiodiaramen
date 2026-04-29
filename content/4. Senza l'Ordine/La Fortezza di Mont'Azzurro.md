@@ -4,7 +4,7 @@ Ci rendiamo conto che vicino alla fortezza c'è un grande accampamento dell'eser
 
 Inizia a piovere. Veniamo portati alla grande porta di legno. L'ufficiale bussa e rapporta del nostro arrivo. Non sentiamo la risposta ma ci fa un segno di entrare. Dentro la sala vediamo [[ser Robard]], non nella stessa armatura dell'Ordine ma nel mantello pregiato dorato con tablion.
 
-![[montazzurro.png]]
+![](https://storage.googleapis.com/aramen/posti/montazzurro.png)
 
 Raccontiamo a [[ser Robard]] tutto ciò che è successo nelle ultime settimane, partendo dall'inizio della missione [[Seguendo i passi di ser Asper]]. Lui è molto agitato, si vede che non ha dormito per tanto tempo. Gli diciamo tra l'altro che le persone sospette sono [[Bernardo]] e [[ser Goar]] e che stavano facendo parte di una congiura. [[Nymeria Cailean]] gli dice che siamo sopravvissuti perché siamo stati troppo vicini al #cristallo all'occhio del ciclone.  Gli raccontiamo che [[ser Goar]] è vivo (e [[ser Robard]] ne rimane sorpreso) e che ha mandato delle persone per eliminarci e impedirci di raggiungere la fortezza. Gli spieghiamo che il territorio del[[La Provincia di Vestria]] è invaso dai mostri.
 
@@ -21,7 +21,7 @@ Riceviamo degli ordini nuovi.
 [[ser Robard]] ci chiede di recuperare una reliquia dell'Ordine, lo #stendardo di [[Gabalus]]. Il motivo per questo è che questa reliquia ci da la possibilità di presentarci di fronte all'Imperatrice [[Gloriana Erenyll]]. È un simbolo molto forte dal punto di vista dello status. Ci darebbe il diritto di ricostruire l'Ordine e di convincere le masse di unirsi a noi.
 
 Sappiamo che [[Gabalus]] è stato sepolto al sud. Ci segna un posto sulla mappa, si chiama [[Solastia]].
-![[mappe/solastia_posizione.png]] Ser [[Gabalus]] è andato al sud con un piccolo gruppo di cavalieri per sconfiggere dei mostri che nessuno crede esistere. È morto in questa spedizione ed è probabile che lo stendardo sia là.
+![](https://storage.googleapis.com/aramen/mappe/solastia_posizione.png) Ser [[Gabalus]] è andato al sud con un piccolo gruppo di cavalieri per sconfiggere dei mostri che nessuno crede esistere. È morto in questa spedizione ed è probabile che lo stendardo sia là.
 
 [[ser Robard]] ha paura della nostra vita e ci dice di andarcene dal paese. Un motivo in più per questo sarebbe di posticipare le elezioni che non possono essere tenute senza notificare tutti i membri col diritto di voto. [[ser Robard]] dice che può mandare la lettera all'Imperatrice [[Gloriana Erenyll]] e a [[ser Goar]] per assicurare che tutti sappiano che noi siamo vivi e dovremmo essere avvisati nel caso delle elezioni. 
 

@@ -1,7 +1,7 @@
 ---
 title: L'occhio di Aramen
 description: Cronache di un'avventura fantasy nella provincia di Vestria
-image: /mappe/Eplagus.png
+image: https://storage.googleapis.com/aramen/mappe/Eplagus.png
 ---
 
 # L'occhio di Aramen

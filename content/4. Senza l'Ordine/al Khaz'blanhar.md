@@ -22,7 +22,7 @@ Di fronte a noi vediamo una stanza circolare (cilindrica) molto alta con la scal
 
 I ragazzi per terra cercano di comporre una risposta dalle lettere, scrivendo "È alimentata ad olio". [[Io]] lo porto in su e attacco al cilindro. Nel momento in cui l'aggancio, la scritta cambia al  <mark style="background: #D2B3FFA6;"> "Perché questa fiamma brucia" </mark>.. [[personaggi/Xröden|Xröden]] pensa che la domanda sia causale. Mettiamo <mark style="background: #D2B3FFA6;"> "Perche non genera fumo" </mark> . Tutta la catena torna in alto e la scritta diventa <mark style="background: #D2B3FFA6;"> "Perché non genera fumo?" </mark> . E [[personaggi/Noi/il Barone|il Barone]] a sto punto si arrabbia, prende [[Zhyriss]] per collo mentre [[Io|Aramisus]] mette la frase  <mark style="background: #D2B3FFA6;"> "Perché la fiamma brucia" </mark> in alto. Poi riappende  <mark style="background: #D2B3FFA6;"> "Perché è alimentata ad olio" </mark>. - "Perché l'olio brucia" non fa scendere la catena, ma la prossima <mark style="background: #D2B3FFA6;"> "Perché è la sua natura" </mark> fa scendere la catena di almeno tre metri. L'ultima frase è <mark style="background: #D2B3FFA6;"> "il Silente" </mark> - ci accorgiamo leggendo il testo del *"Sacrificio dei draghi"*. La catena scende, mancano due centimetri fino all'ultimo anello, ma riusciamo add appendere il cilindro alla pietra comunque. Si apre una porta in più.
 
-![[prova_delle_cause.png]]
+![](https://storage.googleapis.com/aramen/mosaici/prova_delle_cause.png)
 
 Ci troviamo in un'altra stanza cilindrica, simile a quella precedente. Al centro della stanza si trova un monolito di marmo perfetto, rettangolare, senza nessun danno, nessuna incisione. Sopra il blocco di marmo c'è un'altra catena. Sull'ultimo cilindro c'è scritto <mark style="background: #D2B3FFA6;"> "E cosi questa pietra diventa "</mark>. Oltre alle lettere e cilindri vediamo attrezzi che permettono di lavorare pietra. Sopra il blocco di marmo non c'è un anello, invece c'è un buco. [[Io]] metto "la sabbia" . Gli strumenti dallo scultore prendono vita e riducono la pietra in polvere. La catena scende. L'ultima scritta è <mark style="background: #D2B3FFA6;"> "E cosi la sabbia diventa "</mark>. Io sento di non avere energia di usare gli incantesimi potenti, almeno per un giorno. [[Zhyriss]] mette "il pavimento", la catena scende ancora un po' e anche lei si sente indebbolita. [[Grin]] prova a mettere la fine definitiva <mark style="background: #D2B3FFA6;"> "nulla" </mark>, il ciò gli causa una malattia - ma la catena si arrugginisce e cade nel buco. La porte si apre di nuovo.
 
@@ -45,7 +45,7 @@ Lei legge la scritta:
 > [!WARNING]
 > "Attenti a coloro che cercono la conoscenza dello [[Straniero]]."
 
-![[porta_khazblanar.png]]
+![](https://storage.googleapis.com/aramen/mosaici/porta_khazblanar.png)
 [[personaggi/Xröden|Xröden]] capisce che abbiamo già parlato della spirale, nel testo "il Sacrificio dei Draghi". La spirale è un simbolo dei cicli - e in senso lato dello [[Straniero]], che diventa più piccolo col tempo.
 
 [[Zhyriss]] apre la porta, facilmente. Dietro c'è il buio. Lei tira un incantesimo di luce dentro. L'incantesimo va avanti ma dopo qualche metro si spegne. Ci entriamo tutti, [[Io]] e [[personaggi/Noi/il Barone|il Barone]] esitiamo ma pian piano entriamo, mettendo prima una zampa e poi attentamente spostando tutto il corpo. La porta dietro di noi si chiude improvvisamente. 

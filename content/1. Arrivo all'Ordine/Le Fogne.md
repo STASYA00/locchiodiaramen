@@ -6,4 +6,4 @@ Inoltre abbiamo trovato un cadavere in pigiama, sembra essere uscito dal tubo. N
 
 **Il laboratorio**
 
-Ha due stanze. Nella prima troviamo un cerchio, probabilmente per evocare i non morti, funghetti, candele (che prende il Barone), un calderone vuoto. Nella seconda c'è un letto matrimoniale, 2 ghoul che ci hanno attaccato a sorpresa. Troviamo anche il cofanetto; è chiuso, non riusciamo ad aprirlo. Inoltre, Bron ci ha suggerito di non aprirlo. Troviamo anche un talismano di giada nella forma di gatto ([Jade Cat](<https://2e.aonprd.com/Equipment.aspx?ID=223>)).
+Ha due stanze. Nella prima troviamo un cerchio, probabilmente per evocare i non morti, funghetti, candele (che prende il Barone), un calderone vuoto. Nella seconda c'è un letto matrimoniale, 2 ghoul che ci hanno attaccato a sorpresa. Troviamo anche il cofanetto; è chiuso, non riusciamo ad aprirlo. Inoltre, Bron ci ha suggerito di non aprirlo. Troviamo anche un talismano di giada a forma di gatto ([Jade Cat](<https://2e.aonprd.com/Equipment.aspx?ID=223>)).

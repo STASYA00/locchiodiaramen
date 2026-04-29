@@ -1,1 +1,1 @@
-![[pranzo_fortezza.png]]
+![](https://storage.googleapis.com/aramen/mosaici/pranzo_fortezza.png)

@@ -3,4 +3,4 @@ Dopo l'esplosione nell'[[l'Archivio]] ci siamo trovati in mezzo allo spazio dove
 
 [[Brigitta]] ci racconta che i #cristallo sono stati creati dallo [[Straniero]]. L'[[Eterno]] invece non vuole farli entrare nel nostro #piano. Dice che non sa attraversare i piani e che è la barca che le permette di viaggiare tra i piani. Dice che può mangiare le rocce e per dimostrarlo mangia un pezzo di #cristallo. Ci racconta che una volta entrata nel nostro #piano non ne potrebbe più uscire. Ci porta là comunque perché in mezzo ai piani non potremmo sopravvivere. Ci riporta alla [[Fortezza della Sera]].
 
-![[incontro_con_brigitta.png]]
+![](https://storage.googleapis.com/aramen/mosaici/incontro_con_brigitta.png)

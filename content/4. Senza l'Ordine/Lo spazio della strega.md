@@ -27,10 +27,10 @@ Notiamo anche una stanza con un contenitore ripieno di quello che sembra gelatin
 In lontananza vediamo un castello in rovine, su un'altra isola. Sembra abbandonato. È in una zona del piano che sembra essere sconnessa dalle altre. Ci avviciniamo al palazzo, mentre camminiamo parlo con [[Grin]] che mi sta diventando sempre piu simpatico. 
 
 Nel altro palazzo troviamo un archivio. Pensiamo di riposare un attimo ma ci rendiamo conto che il tempo potrebbe andare diversamente in questo posto rispetto al nostro mondo e dobbiamo sbrigarci per trovare un modo per tornare. [[Zhyriss]] trova un disegno tecnico di quello che sembra una nave #interplanare. Assomiglia a quella di [[Brigitta]]. Le scritte sono fatte in una lingua esotica che non sappiamo leggere. [[Io]] leggendo la risonanza psicometrica del foglio capisco che questa nave esiste ed è stata regalata ad [[Aslynn]]. Lei ne era affezionata, teneva la nave vicino a se stessa e la trattava quasi come una casa. A noi sembra una potenziale soluzione per tornare a casa.
-![[disegno_nave_interplanare.png]]
+![](https://storage.googleapis.com/aramen/documenti/disegno_nave_interplanare.png)
 
 Inoltre troviamo un altro foglio con la mappa che sembra rappresentare il modello del nostro universo:
-![[disegno_modello_mondo.png]]![[disegno_cristallo.png]]
+![](https://storage.googleapis.com/aramen/documenti/disegno_modello_mondo.png)![](https://storage.googleapis.com/aramen/documenti/disegno_cristallo.png)
 
 Da questi disegni capiamo che le linee sul foglio sono dei piani (il nostro mondo sta dentro una di queste linee). Quando il foglio si piega le linee si toccano causando l'incrocio trai piani. Il piegarsi dei fogli è causato dalle forze interne, potenzialmente dai cristalli. [[Aslynn]] ipotizzava anche la possibilità di avere l'incrocio trai vari universi e si chiedeva cosa potrebbe succedere se si scontrassero.
 

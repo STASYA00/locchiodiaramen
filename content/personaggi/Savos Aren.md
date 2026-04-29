@@ -3,4 +3,4 @@ Il mago di fiducia di [[Alterf Caylean|Lord Caylean]], viene invitato [[al Croce
 [[personaggi/Noi/Gurglinheir|Gurglinheir]] è rimasto con lui per liberare il suo fratello gemello [[Iolrath]] e per imparare la magia esoterica direttamente dall'arcimago.
 
 
-![[Savos_Aren.png]]
+![](https://storage.googleapis.com/aramen/ritratti/Savos_Aren.png)

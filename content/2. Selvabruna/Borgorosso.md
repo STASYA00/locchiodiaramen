@@ -1,1 +1,1 @@
-![[borgorosso.png]]
+![](https://storage.googleapis.com/aramen/mosaici/borgorosso.png)
