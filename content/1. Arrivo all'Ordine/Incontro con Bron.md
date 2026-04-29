@@ -1,6 +1,6 @@
 
 È simpatico, sembra essere relativamente onesto nei patti. È consapevole di quasi tutto quello che sta succedendo nella fortezza (non sapeva o ha fatto finta di non sapere del corpo che abbiamo trovato nelle fogne). Sembra che certe persone stiano lavorando per lui come spie interne. Ufficialmente è il capo delle spie, dell'intelligence dell'Ordine delle Tre Spade.
-Propone al gruppo di fare dei lavoretti per lui in cambio di favori / soldi. Ad Aramisus sembra giusto, vuole collaborare. Anche a [[Vorr]] e Neptunium non dispiace l'idea. Nymeria e il Barone hanno dei dubbi al riguardo.
+Propone al gruppo di fare dei lavoretti per lui in cambio di favori / soldi. Ad Aramisus sembra giusto, vuole collaborare. Anche a [[Vorr]] e [[Neptunium]] non dispiace l'idea. [[Nymeria Cailean|Nymeria]] e [[il Barone]] hanno dei dubbi al riguardo.
 
 ==A Bron non piace Bernardo, neanche a [[ser Robard]]==. O meglio, giocano contro di lui.
 
