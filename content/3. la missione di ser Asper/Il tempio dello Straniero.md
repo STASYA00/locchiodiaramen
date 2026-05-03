@@ -1,7 +1,7 @@
 #altropiano
-Ci svegliamo tutti in una foresta nera, non sembra il mondo reale. Il cielo è viola, le nuvole sono scure e si muovono molto velocemente. [[Nymeria]] cerca di prendere un funghetto, ma quello si alza e scappa in un buco. Gli alberi sono tutti storti.
+Ci svegliamo tutti in una foresta nera, non sembra il mondo reale. Il cielo è viola, le nuvole sono scure e si muovono molto velocemente. [[Nymeria Cailean|Nymeria]] cerca di prendere un funghetto, ma quello si alza e scappa in un buco. Gli alberi sono tutti storti.
 
-[[Girglinheir]] cerca di scavare il muschio. [[Xröden]] capisce che siamo su un altro piano materiale. È uno dei piani poco conosciuti, non viene insegnato comunemente. Parlando con i funghi [[Gurglinheir]] capisce che ci sono passati molti animali, "con le zampe, senza le zampe, con le ali, senza le ali, tutti molto cattivi". Dalla descrizione di uno sembra che si tratti di una fenice. Tutti stavano andando in una direzione.
+[[Gurglinheir]] cerca di scavare il muschio. [[Xröden]] capisce che siamo su un altro piano materiale. È uno dei piani poco conosciuti, non viene insegnato comunemente. Parlando con i funghi [[Gurglinheir]] capisce che ci sono passati molti animali, "con le zampe, senza le zampe, con le ali, senza le ali, tutti molto cattivi". Dalla descrizione di uno sembra che si tratti di una fenice. Tutti stavano andando in una direzione.
 
 [[Aramisus]] cerca di capire se questo paesaggio corrisponde a quello della sua #visione della fenice. Arriva abbastanza velocemente al fatto che l'incontro con la fenice era nel #piano materiale, nel lato oscuro del mondo. Questo #piano è palesemente un #piano diverso da quello materiale.
 

@@ -2,11 +2,11 @@ Dopo [[In ricerca di Xröden|aver trovato Xröden]] andiamo alla casa di Caylean
 
 La casa è molto grande, ha quasi la larghezza della fortezza del[[l'Ordine delle Tre Spade|l'Ordine]].
 
-Tra poco arriva [[Alterf Caylean]]. Parla con [[Nymeria Cailean|Nymeria]], è molto felice di vederla, vuole organizzare una festa per il suo ritorno. Le dice che la [[Cassiopea Caylean]] è al tempio e ha qualche incontro al momento. [[Nymeria Cailean|Nymeria]] racconta dei suoi raggiungimenti e della sua carriera nel[[l'Ordine delle Tre Spade|l'Ordine]] e padre sembra essere fiero di lei. Ci porta verso il tempio.
+Tra poco arriva [[Alterf Caylean]]. Parla con [[Nymeria Cailean|Nymeria]], è molto felice di vederla, vuole organizzare una festa per il suo ritorno. Le dice che la [[Cassiopea Caylean]] è al tempio e ha qualche incontro al momento. [[Nymeria Cailean|Nymeria]] racconta dei suoi raggiungimenti e della sua carriera nell'[[l'Ordine delle Tre Spade|l'Ordine]] e padre sembra essere fiero di lei. Ci porta verso il tempio.
 
 Il tempio è una cattedrale con dei corridoi fatte dalle colonne. Ogni colonna ha un piccolo altare alla sua base. Al centro del tempio c'è una statua gigantesca di [[Cayden Caylean]]. Nel tempio non c'è nessuno, perché sta avvenendo una conversazione tra la [[Cassiopea Caylean]] e [[Rostam]]. La nonna è ubriaca con un bicchiere di vino in mano mentre [[Rostam]] è sobrio e serio.
 
-Appena sente i nostri passi, la nonna si gira e vediamo che è felice di rivedere sua nipote. Le presenta [[Rostam]], dice che è il fratello di [[Kosrau]]. Lui è venuto qua per indagare la migrazione degli gnoll rifugiati. [[Nymeria Cailean|Nymeria]] gli racconta che stiamo indagando la stessa questione e lo invita per cena. [[Cassiopea Caylean]] dice che la gente arriva da tutte le parti scappando dal[[La Provincia di Vestria]] dopo l'esplosione del #portale. 
+Appena sente i nostri passi, la nonna si gira e vediamo che è felice di rivedere sua nipote. Le presenta [[Rostam]], dice che è il fratello di [[Kosrau]]. Lui è venuto qua per indagare la migrazione degli gnoll rifugiati. [[Nymeria Cailean|Nymeria]] gli racconta che stiamo indagando la stessa questione e lo invita per cena. [[Cassiopea Caylean]] dice che la gente arriva da tutte le parti scappando dal [[La Provincia di Vestria]] dopo l'esplosione del #portale. 
 
 Quando [[Rostam]] se ne va, parliamo del #marchio dello [[Straniero]]. Lei non ne trova niente di strano. Lei dice che lo [[Straniero]] marchia per segnalare a certe persone che siamo allineati con lui. O che siamo stati in contatto in qualche modo. Dice che probabilmente le persone che vedono il #marchio sono i seguaci dello [[Straniero]]. 
 
@@ -20,4 +20,4 @@ La teoria d[[il Barone]] è che [[Murgawa]] vuole indebolire l'Impero col morbo,
 
 [[Zhyriss]] sta cercando di far pace con [[Xröden]] e trova la sua coda morsa da [[Io|me]]. Spaventata, si mette a fare i gratini a tutti e due, il che a noi piace.
 
-[[personaggi/Nymeria|Nymeria]] e [[Rostam]] a un certo punto vanno in camera di [[personaggi/Nymeria|Nymeria]] e passano la notte insieme. Di mattina arriva il battista spaventato dicendo che gli gnoll rifugiati sono in piazza armati con degli ostaggi. Ne veniamo avvisati tutti. Insieme a  [[Rostam]] ci dirigiamo verso [[la piazza della ribellione]].
+[[Nymeria Cailean|Nymeria]] e [[Rostam]] a un certo punto vanno in camera di [[Nymeria Cailean|Nymeria]] e passano la notte insieme. Di mattina arriva il battista spaventato dicendo che gli gnoll rifugiati sono in piazza armati con degli ostaggi. Ne veniamo avvisati tutti. Insieme a  [[Rostam]] ci dirigiamo verso [[la piazza della ribellione]].

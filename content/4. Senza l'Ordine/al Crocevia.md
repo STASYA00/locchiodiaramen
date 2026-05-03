@@ -2,7 +2,7 @@
 aliases:
   - Crocevia
 ---
-Dal[[La Fortezza di Mont'Azzurro]] ci dirigiamo verso il Crocevia. Vediamo che tutte le piante sono secche come se terreno diventasse improvvisamente molto arido.
+Dal [[La Fortezza di Mont'Azzurro]] ci dirigiamo verso il Crocevia. Vediamo che tutte le piante sono secche come se terreno diventasse improvvisamente molto arido.
 
 La città ha una cinta muraria. Vediamo subito che è una città molto grande, sappiamo anche che è uno dei centri commerciali più importanti dell'Impero.
 
@@ -19,7 +19,7 @@ Appena prendiamo la strada incontriamo una vecchia signora che grida "[[Iolrath]
 
 [[Gurglinheir]] si mette a piangere quando lo chiedo del fratello. Grida di aver ucciso tutta la famiglia insieme al fratello e non crede che possa essere vivo. Arriviamo alla bancarella, la vediamo tutta distrutta. Una delle guardie vicino non ne sa niente. Vediamo le tracce del sangue. Pure la guardia accusa gli gnoll. Si vede che qua odiano gli gnoll. Dei catfolk parla invece molto bene dicendo che sono bravi, onesti e lavorano. [[Io]] sono d'accordo e lo mostro facendo il gesto "si" con la testa.
 
-[[il Barone]] viene trattato bene dalla gente, probabilmente perché vedono che sia vestito bene. O forse perché ha [[Nymeria Cailean|Nymeria]] nella vicinanza. 
+[[il Barone]] viene trattato bene dalla gente, probabilmente perché vedono che sia vestito bene. O forse perché ha [[Nymeria Cailean|Nymeria]] nelle vicinanze. 
 
 [[Gurglinheir]] tira  [[il cane Rubeus]] , il cane d'onice, dall' #inventario. Gli chiede di seguire la persona che ha lasciato le tracce del sangue. Salutiamo la guardia e seguiamo il cane. Vediamo delle macchie del sangue su una parete. Sembra che qualcuno abbia messo la mano sulla parete. [[il Barone]] riconosce subito che è un'impronta della mano di uno gnoll. Il cane fa un giro attorno a un'isolato e poi prende una strada definitiva. Ci porta in periferia dove ci sono delle casette piccole. La casa a cui ci porta [[il cane Rubeus|Rubeus]] non è per niente elegante, sembra rovinata. L'intonaco è scrostato, il tetto è disordinato. Le porte e le finestre sono chiuse con gli scuri il che stupisce, perché di solito non è una cosa che si fa di giorno. 
 
@@ -31,15 +31,15 @@ Non avendo trovato nulla apre la porta a noi. [[Nymeria Cailean|Nymeria]] rimane
 
 All'ingresso del bordello vediamo il buttafuori che non ci vuole far entrare. [[Nymeria Cailean|Nymeria]] mostra la sua armatura e questo lo fa chiedere scusa e farci subito entrare. È un palazzo di più piani dove gli spazi sono disposti sui piani in base alla loro funzione e privacy. Le stanze più private si trovano sul piano più in alto. [[Madame Viola]] gestisce tutta l'attività. Riconosce [[Nymeria Cailean|Nymeria]] e si mette a parlare con lei.
 
-[[Io]] chiedo a madame Viola se ci sono delle giovane gatte. Lei risponde dicendo che nel <mark style="background: #D2B3FFA6;">Giardino di Viole</mark> si trova di tutto. Andiamo in una sala con le vasche da bagno dove mi faccio chiamare una gatta [[Bianca]] per aiutare a lavarmi. Poi faccio ne chiamare una in più. Andiamo nei bagni termali e nella sauna. La prima gatta gli piace di piu. A un certo punto mando via la seconda e passo il tempo con la prima. Tra uno e altro le parlo un po' delle nostre avventure e le racconto quanto mi manca la casa.
+[[Io]] chiedo a madame Viola se ci sono delle giovane gatte. Lei risponde dicendo che nel <mark style="background: #D2B3FFA6;">Giardino di Viole</mark> si trova di tutto. Andiamo in una sala con le vasche da bagno dove mi faccio chiamare una gatta [[Bianca]] per aiutare a lavarmi. Poi faccio ne chiamare una in più. Andiamo nei bagni termali e nella sauna. La prima gatta gli piace di più. A un certo punto mando via la seconda e passo il tempo con la prima. Tra uno e altro le parlo un po' delle nostre avventure e le racconto quanto mi manca la casa.
 
 [[Nymeria Cailean|Nymeria]] incontra suo amico [[Prospar]], lo trova seduto con due ragazze nude a fianco. È abbastanza ubriaco, le racconta che stanno per fare il rito di Belanus. Dice che non bisogna parlarne tanto che la gente crede nell'[[Eterno]]. [[Nymeria Cailean|Nymeria]] rimane col suo amico che a un certo punto si addormenta sul divano. Allora lei si diverte con le sue ragazze.
 
 [[Xröden]] sta in ricerca del cibo. [[il Barone]] si fa chiamare delle elfe, loro hanno un po paura di lui. [[Gurglinheir]] cerca di spiegargli che il rapporto tra gli elfi è più platonico che fisico, ma [[il Barone]] non si lascia ingannare. [[Gurglinheir]] fa l'esperienza "spirituale" come la chiama con degli elfi.
 
-La mattina prossima siamo pronti per andare dall'amica di [[Nymeria Cailean|Nymeria]]. [[Sheklastis]] è la figlia del capo degli gnoll (praticamente il capo della mafia in città). A lei non piace l'attività del suo padre e aiutava [[Nymeria Cailean|Nymeria]] a contrastare le loro attività. Prima era troppo piccola per partecipare alle battaglie di [[Nymeria Cailean|Nymeria]] ma ora dovrebbe essere due anni piu grande rispetto a prima.
+La mattina prossima siamo pronti per andare dall'amica di [[Nymeria Cailean|Nymeria]]. [[Sheklastis]] è la figlia del capo degli gnoll (praticamente il capo della mafia in città). A lei non piace l'attività del suo padre e aiutava [[Nymeria Cailean|Nymeria]] a contrastare le loro attività. Prima era troppo piccola per partecipare alle battaglie di [[Nymeria Cailean|Nymeria]] ma ora dovrebbe essere due anni più grande rispetto a prima.
 
-Il padre di [[Sheklastis]] crede che il portale è stato aperto dal[[l'Ordine delle Tre Spade]] per far scoppiare il caos nel paese. Racconta che in città ci sono degli gnoll arrivati dal sud che appartengono alla classe sociale piu bassa. Ci racconta pure del mercato degli schiavi dove può essere il fratello di [[Gurglinheir]]. [[Gurglinheir]] ci racconta la sua storia, dice che vorrebbe trovare il fratello e spiegarsi. Prova a farci vedere come si canta agli alberi bruciando due piantine. Appena le piantine prendono fuoco arrivano le guardie. Lo fanno pagare la multa per vandalismo pagando al rispettabile [[clan Stoccolot]] e lo mettono alla gogna per 12 ore. [[Nymeria Cailean|Nymeria]] cerca di influenzare le guardie. [[Io]] in tutto sto tempo sono leggermente distratto perche penso di [[Bianca]] che mi è piaciuta tanto. 
+Il padre di [[Sheklastis]] crede che il portale è stato aperto dal [[l'Ordine delle Tre Spade]] per far scoppiare il caos nel paese. Racconta che in città ci sono degli gnoll arrivati dal sud che appartengono alla classe sociale più bassa. Ci racconta pure del mercato degli schiavi dove può essere il fratello di [[Gurglinheir]]. [[Gurglinheir]] ci racconta la sua storia, dice che vorrebbe trovare il fratello e spiegarsi. Prova a farci vedere come si canta agli alberi bruciando due piantine. Appena le piantine prendono fuoco arrivano le guardie. Lo fanno pagare la multa per vandalismo pagando al rispettabile [[clan Stoccolot]] e lo mettono alla gogna per 12 ore. [[Nymeria Cailean|Nymeria]] cerca di influenzare le guardie. [[Io]] in tutto sto tempo sono leggermente distratto perche penso di [[Bianca]] che mi è piaciuta tanto. 
 
 [[Misilda]], amica di [[Nymeria Cailean|Nymeria]] ci racconta della siccità. Dice che molti se la prendono con gli gnoll arrivati dal sud. Ci racconta del rito di Belanus.
 

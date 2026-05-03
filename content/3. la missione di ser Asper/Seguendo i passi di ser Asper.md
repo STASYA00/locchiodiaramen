@@ -1,7 +1,7 @@
 
 **Deadline**: 1 mese
 
-[[Ser Asper]] (un cavaliere anziano) è stato trovato morto sotto un bastione, è stato trovato dal lato esterno del bastione. È successo poco prima del giuramento, lo stesso giorno. Non sembra che fosse ubriaco. Il corpo si trova da [[Gordon]]. Non hanno indagato sull'omicidio precedente. Bernardt non voleva indagare molto, probabilmente è stato mandato via a causa dell'incidente. [[Bron]] si occupava dell'identificazione del primo corpo. Robard non crede sia utile collegare due casi.
+[[Ser Asper]] (un cavaliere anziano) è stato trovato morto sotto un bastione, è stato trovato dal lato esterno del bastione. È successo poco prima del giuramento, lo stesso giorno. Non sembra che fosse ubriaco. Il corpo si trova da [[Gordon]]. Non hanno indagato sull'omicidio precedente. [[Bernardo|Bernardt]] non voleva indagare molto, probabilmente è stato mandato via a causa dell'incidente. [[Bron]] si occupava dell'identificazione del primo corpo. [[ser Robard]] non crede sia utile collegare due casi.
 
 [[Ser Asper]] si occupava dell'archivio e della ricerca. Doveva consegnare un dispaccio (un insieme di documenti) scritto dal [[Gran Maestro]] alla fortezza Rossa.
 
