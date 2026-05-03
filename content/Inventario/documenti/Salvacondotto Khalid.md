@@ -1,0 +1,6 @@
+---
+aliases:
+  - Salvacondotto
+  - salvacondotto
+---
+[[Khalid]]
