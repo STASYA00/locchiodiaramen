@@ -1,0 +1,1 @@
+Un'amico di [[Nymeria Cailean|Nymeria]], abita al [[al Crocevia|Crocevia]]. Un ragazzo che viene da una famiglia ricca. Capelli grigi, ricci, corti.

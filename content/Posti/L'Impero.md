@@ -1,0 +1,1 @@
+Ha due nemici principali: [[Tahrin]] e [[Andoria]]

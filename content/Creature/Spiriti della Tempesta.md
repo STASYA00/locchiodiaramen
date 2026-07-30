@@ -1,0 +1,1 @@
+Le creature elementari fatte dall'aria. Hanno la capacità di scomparire dalla vista. Sono una specie dei nuvolette che attaccano gli intrusi. Possono essere colpiti con degli oggetti fisici e sono specialmente deboli ai danni da fortitude. Provano piacere nel fare del male agli altri.

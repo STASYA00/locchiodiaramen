@@ -3,7 +3,7 @@ Cambiamo la direzione da [[Verso la Fortezza]] a quella opposta. Arriviamo al Po
 
 Prendiamo una barca e facciamo un tragitto di due giorni.
 
-Insieme a lui la strada fa un ragazzo giovane, a vista ha circa 23-27 anni. Scende con noi per prendere la strada verso il crocevia. [[Aramisus]] si annoia sulla barca e inizia a parlare con lui. Scopre che si chiama [[Arcturus]] e di mestiere fa il vagabondo. [[Aramisus]] gli parla in modo amichevole e a un certo punto per scherzare propone di leggere il suo futuro dalla tazza del te.
+Insieme a lui la strada fa un ragazzo giovane, a vista ha circa 23-27 anni. Scende con noi per prendere la strada verso il crocevia. [[Io]] mi annoia sulla barca e inizia a parlare con lui. Scopre che si chiama [[Arcturus]] e di mestiere fa il vagabondo. Gli parlo in modo amichevole e a un certo punto per scherzare propone di leggere il suo futuro dalla tazza del te.
 
 Tenendo la tazza in mano mi rendo conto che lui sa usare la magia e diventerá molto potente nel futuro. Inoltre vedo subito che è una persona molto determinata ed orientata al suo obbiettivo. [[Arcturus]] racconta che sapeva sempre fare un po di magia ma il suo potere si è aumentato significantemente con l'esplosione del portale. Dice che la sua magia è diversa dalla nostra, è più primordiale. È in grado di incanalare della magia proveniente secondo alcuni studiati da degli altri piani. Ora la connessione tra gli piani è più forte.
 

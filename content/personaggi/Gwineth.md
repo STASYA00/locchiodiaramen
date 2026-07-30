@@ -1,0 +1,1 @@
+Una donna elfica che abbiamo incontrato a [[Fastia]]. È una ricercatrice, fa ricerca su [[Solastia]] ma è meno interessata a [[Gabalus]].

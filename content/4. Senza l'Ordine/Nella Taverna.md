@@ -1,6 +1,6 @@
 Dopo essere andati [[Via dalla Fortezza]] scendendo sul fiume con un traghetto. Siamo arrivati in una taverna piena di gente. In contrasto con i villaggi precedenti la gente sembra comportarsi esattamente come prima dell'esplosione. La gente è più rilassata, non sono ancora preoccupati per l'avvenimento. Ci prestano comunque più attenzione che avrebbero fatto prima dell'esplosione. 
 
-In fondo della taverna vediamo un ring con due persone che combattono. Uno, l'orco [[Uldin]], sembra di essere il più forte. [[Nymeria Cailean]] è eccitata dal combattimento e lo sfida per divertimento. [[Io]] scometto 10 #monete d'oro sulla sua vittoria (gli odds sono 5:1). Provo anche a castare certi incantesimi che le aiuterebbero, ma l'orco se n'è subito reso conto. Si avvicinò proclamando che fosse vietato l'uso degli incantesimi. Si oppone anche [[Nymeria Cailean]] che vuole divertirsi in modo equo.
+In fondo della taverna vediamo un ring con due persone che combattono. Uno, l'orco [[Uldin]], sembra di essere il più forte. [[Nymeria Cailean|Nymeria]] è eccitata dal combattimento e lo sfida per divertimento. [[Io]] scometto 10 #monete d'oro sulla sua vittoria (gli odds sono 5:1). Provo anche a lanciare certi incantesimi che le aiuterebbero, ma l'orco se n'è subito reso conto. Si avvicinò proclamando che fosse vietato l'uso degli incantesimi. Si oppone anche [[Nymeria Cailean|Nymeria]] che vuole divertirsi in modo equo.
 
 ![](https://storage.googleapis.com/aramen/mosaici/uldin_vs_nymeria.png)
 
@@ -12,3 +12,4 @@ Quando [[Gurglinheir]] parla col locandiere scopre che oltre al confine ci sono 
 
 Mentre ci occupiamo di questa facenda, entra un gruppo di soldati. Uno di loro prende dalla borsa una lunga pergamena. Proclama che [[ser Lucius]] prende il possesso di tutta [[La Provincia di Vestria]] e per il potere dato a lui dall'Imperatrice [[Gloriana Erenyll]] eserciterá i suoi poteri in tutto il territorio.
 
+Insieme a [[Uldin]] continuiamo il nostro viaggio verso [[La Fortezza della Luna]].

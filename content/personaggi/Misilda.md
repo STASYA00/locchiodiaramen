@@ -1,0 +1,1 @@
+Un'amica di [[Nymeria Cailean|Nymeria]], viene da una famiglia ricca.

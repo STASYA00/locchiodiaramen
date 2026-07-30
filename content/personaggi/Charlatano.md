@@ -1,0 +1,3 @@
+Un vecchio che va in giro per l'Impero vendendo oggetti di vario genere. Molti di questi oggetti sono fasulli ma a volte si trovano delle perle. Può aiutare a vendere o a comprare certi oggetti, spesso ha delle informazioni preziose sugli eventi recenti.
+
+A un certo punto aveva un'opinione brutta di [[Noi]] per via delle azioni di [[Vorr]] e [[Nymeria Cailean|Nymeria]] che hanno cercato di ottenere le informazioni da lui torturandolo. [[Io]] sto lavorando continuamente per migliorare le relazioni e di conquistare la sua fiducia.

@@ -1,0 +1,1 @@
+Un cavaliere anziano dell'[[l'Ordine delle Tre Spade|Ordine]] che è stato ucciso nella [[Fortezza della Sera]] per aver scoperto il complotto di [[ser Goar]].

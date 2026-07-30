@@ -1,0 +1,1 @@
+Uno spirito di un ragazzo incontrato nel[[Le Caverne]]. Semitrasparente, timido, parla piano.

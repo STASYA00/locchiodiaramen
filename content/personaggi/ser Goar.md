@@ -1,0 +1,1 @@
+Un cavaliere dell'[[l'Ordine delle Tre Spade|Ordine]]. Ha cercato di fare un complotto per acquisire il potere e diventare il Gran Maestro dell'[[l'Ordine delle Tre Spade|Ordine]], attaccando tutti i membri durante l'elezione.

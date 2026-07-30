@@ -1,0 +1,1 @@
+La proprietaria del bordello preferito di [[Nymeria Cailean|Nymeria]] al [[al Crocevia|Crocevia]]. Una signora vivace coi capelli lunghi fino alle spalle, biondi stretti. Non è magra ma non è neanche grassa ed è anche un po' bassina il che la rende ancora più simpatica. Tratta le sue ragazze (e ragazzi) bene, ospitale coi clienti, "gli ospiti".

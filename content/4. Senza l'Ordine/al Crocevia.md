@@ -2,7 +2,7 @@
 aliases:
   - Crocevia
 ---
-Dal [[La Fortezza di Mont'Azzurro]] ci dirigiamo verso il Crocevia. Vediamo che tutte le piante sono secche come se terreno diventasse improvvisamente molto arido.
+Dal[[La Fortezza di Mont'Azzurro]] ci dirigiamo verso il Crocevia. Vediamo che tutte le piante sono secche come se terreno diventasse improvvisamente molto arido.
 
 La città ha una cinta muraria. Vediamo subito che è una città molto grande, sappiamo anche che è uno dei centri commerciali più importanti dell'Impero.
 

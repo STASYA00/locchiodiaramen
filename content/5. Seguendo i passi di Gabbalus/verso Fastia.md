@@ -1,4 +1,4 @@
-Dopo essere tornati [[al Crocevia]] dobbiamo prendere una nave per andare a [[Fastia]] nella ricerca dello stendardo.
+Dopo essere tornati [[al Crocevia]] dobbiamo prendere una nave per andare a [[Fastia]] nella ricerca dello stendardo. Cosi inizia il nostro viaggio nella ricerca dello stendardo, i primi passi fuori dall'Impero dopo essere entrati nell'[[l'Ordine delle Tre Spade|Ordine]].
 
 Arriviamo nel [[Porto Imperatore]] e ci passiamo una notte. Di mattina facciamo la colazione e ci mettiamo a discutere della magia col vecchio locandiere. Poi andiamo nel porto e cerchiamo una nave per andare verso [[Fastia]]. Un tizio nel porto dice a [[Xröden]] che c'è una nave, <mark style="background: #D2B3FFA6;"> La scia d'avorio </mark>che potrebbe andare in questa direzione. Andiamo subito verso quella nave. Il capitano ci da il passaggio per soli 25 monete d'oro a testa. Noi diciamo che vogliamo rimanere anonimi e il capitano ci dà la garanzia a patto che non mettiamo il naso nei suoi affari.
 

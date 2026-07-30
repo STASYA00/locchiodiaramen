@@ -1,0 +1,2 @@
+Le bestie del deserto che abbiamo incontrate [[il viaggio nel deserto|nel viaggio nel deserto]].. Assomigliano alle lucertole con una corazza da tartaruga ma hanno le zampe più lunghe e sono ricoperte dalle scaglie. Le scaglie fanno anche da protezione, assorbono una parte del danno in una maniera attiva. 
+Non hanno le debolezze. 

@@ -9,7 +9,7 @@ Gli affreschi sono:
 
 Abbiamo messo una bacca Goodberry dentro il vaso e creato dell'acqua sopra. Il meccanismo si è attivato e la pianta è cresciuta. [[Gurglinheir]], non capendo come funziona, ha ghiacciato la pianta ed è morta.
 
-Dopo numerose discussioni abbiamo deciso di rifare. Mettiamo la bacca nel vaso e lasciamo cadere dell'acqua sopra. Dopodiché [[Nymeria Cailean|Nymeria]] genera la luce con la sua spada brillante, il che fa crescere la pianta (l'estate). Non riusciamo a capire cosa fare, [[Aramisus]] chiede aiuto agli spiriti, si mette a meditare e scrive dei segni
+Dopo numerose discussioni abbiamo deciso di rifare. Mettiamo la bacca nel vaso e lasciamo cadere dell'acqua sopra. Dopodiché [[Nymeria Cailean|Nymeria]] genera la luce con la sua spada brillante, il che fa crescere la pianta (l'estate). Non riusciamo a capire cosa fare, [[Io]] chiedo aiuto agli spiriti, mi metto a meditare e scrive dei segni sul pavimento. Cosi riesco ad ottenere l'aiuto degli dei che parzialmente ci aiuta ad entrare dentro [[Le Caverne]]. Praticamente, dobbiamo simulare tutte le stagioni usando il vaso e la bacca Goodberry.
 
 ![](https://storage.googleapis.com/aramen/mosaici/affreschi_fortevalle/primavera.png)
 ![](https://storage.googleapis.com/aramen/mosaici/affreschi_fortevalle/estate.png)

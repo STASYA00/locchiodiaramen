@@ -1,0 +1,2 @@
+Una ragazza giovane, bella coi capelli ricci castane e gli occhi scuri. Lavora come una cameriera in una taverna vicino a [[Selvabruna]]. 
+È stata torturata pesantemente da [[Vorr]] e [[Nymeria Cailean|Nymeria]] per cui tutto il gruppo ha acquisito brutta fama nella zona di [[Selvabruna]]. Successivamente [[Nymeria Cailean|Nymeria]] ne ha pentito.

@@ -2,6 +2,11 @@
 aliases:
   - Aramisus
   - me
+  - mio
+  - mia
+  - miei
+  - mie
+  - mi
 ---
 io sono [[Aramisus]].
 

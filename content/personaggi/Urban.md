@@ -1,0 +1,1 @@
+Uno dei cavalieri dell'[[l'Ordine delle Tre Spade|Ordine]]. È stato uno dei [[Noi|nostri]] insegnanti nei primi giorni nella [[Fortezza della Sera]]. È uno dei pochi sopravvissuti dopo l'assalto sull'[[l'Ordine delle Tre Spade|Ordine]] e l'apertura del #portale . 
