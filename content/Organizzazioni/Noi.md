@@ -13,7 +13,7 @@ Il gruppo degli ex-cavalieri dell'[[l'Ordine delle Tre Spade|Ordine]] (e certe p
 * [[personaggi/Noi/il Barone|il Barone]]
 * [[Xröden]]
 * [[Zhyriss]]
-* [[Varcorim Jandukk Zukov|Jandukk]]
+* [[Vargkorim Jandukk Zukov|Jandukk]]
 
 precedentemente anche:
 
