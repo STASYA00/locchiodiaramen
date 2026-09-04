@@ -1,0 +1,28 @@
+---
+title: "Time Sense"
+tags:
+  - spell
+  - rank/1st
+  - rarity/common
+  - trait/cantrip
+  - trait/concentrate
+  - arcane
+  - occult
+rank: 1st
+level: 1
+rarity: Common
+source: "Dark Archives (Remastered) pg. 183"
+aon: "https://2e.aonprd.com/Spells.aspx?ID=2611"
+---
+
+[[Spells Index]]
+
+Source: [Time Sense on AoN](https://2e.aonprd.com/Spells.aspx?ID=2611)
+
+**1st** | Common | Traits: Cantrip, Concentrate
+
+[[Rank 1st]] [[Arcane]] [[Occult]]
+
+When you Cast the Spell, you gain a perfect sense of time. You can learn exactly what time it is, down to the second. You can instead choose to gain a perfect sense of the calendar if you have knowledge in that area—if you're trained in Nature, you can learn exactly how long it is until sunrise and how many days until the next solstice. If you're trained in Astronomy Lore, you can learn precisely when any known predictable astronomical conjunction will begin and end, and so on.
+
+ You can gain a +1 status bonus to one attack roll, Perception check, saving throw, or skill check you take on the same turn you cast _time sense_ that requires extremely precise timing. If you choose to gain this bonus, you can't gain it again for 1 hour.

@@ -1,0 +1,1 @@
+Sono forti fisicamente ma poco agili e non troppo intelligenti. Non hanno ne vulnerabilità ne resistenze. possono scavare.
