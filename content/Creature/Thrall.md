@@ -1,0 +1,1 @@
+Una creatura undead creata dal necromante che segue i suoi ordini. Non ha ne la mente ne la propria volontà. Immune agli effetti di sangue e morte, alle malattie, danni mentali e ai veleni. Falliscono tutti i checks automaticamente. Vivono solitamente un minuto.

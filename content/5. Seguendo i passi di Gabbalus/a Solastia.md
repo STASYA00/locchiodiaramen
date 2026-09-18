@@ -1,0 +1,2 @@
+Dopo [[il viaggio nel deserto]] il #portale aperto da [[Jabali]] ci porta direttamente a [[Solastia]]. [[Zhyriss]] nota immediatamente uno stendardo su una delle case. Questo stendardo assomiglia agli stendardi che abbiamo visto nel mausoleo con le tombe dei cavalieri dell'[[l'Ordine delle Tre Spade|Ordine]].
+[[Gwineth]] sembra interessata, ci tira per andare direttamente nel villaggio. A lei interessano le rovine, sarebbe delusa se [[Solastia]] tornasse di essere questo villaggio. [[Silano]] dice che questo posto è casa sua - e cerca di portarci lì.

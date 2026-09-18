@@ -1,1 +1,1 @@
-un [[genio]] proveniente da un altro piano.
+un [[genio]] proveniente da un altro piano. Debole al freddo.
